@@ -125,11 +125,12 @@ https://public.kliv.fun/Macair30/play.php?id=11672
 # ===== SONY SAB=====
 #EXTINF:-1 group-title="SONY SAB" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png",Sony Sab 1
 https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=221256&%7CUser-Agent=RANAPK
-#EXTINF:-1 group-title="SONY SAB" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png",Sony Sab 2 
+#EXTINF:-1 group-title="SONY SAB" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png",Sony Sab 2
+http://103.229.254.25:7001/play/a09s/index.m3u8
+#EXTINF:-1 group-title="SONY SAB" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png",Sony Sab 3
 http://103.182.170.32:8888/play/a03r
-#EXTINF:-1 group-title="SONY SAB" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png",Sony Sab 3 
+#EXTINF:-1 group-title="SONY SAB" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png",Sony Sab 4
 http://103.72.198.82:7001/play/a00e
-
 
 # ===== SET HD =====
 #EXTINF:-1 group-title="SET HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SET HD 1
