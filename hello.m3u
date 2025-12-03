@@ -29,19 +29,23 @@ http://116.90.120.149:8000/play/a0jg/index.m3u8
 #EXTINF:-1 group-title="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel HD 1
 https://fusion4k.wasmer.app/getlink/2480
 #EXTINF:-1 group-title="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel HD 2
-https://public.kliv.fun/4kmac26ns/play.php?id=475134
+https://tvmax4k.xocietylive.workers.dev/475134.m3u8
 #EXTINF:-1 group-title="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel HD 3
-http://66.102.120.18:8000/play/a013/index.m3u8
+https://public.kliv.fun/4kmac26ns/play.php?id=475134
 #EXTINF:-1 group-title="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel HD 4
+http://66.102.120.18:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel HD 5
 http://115.42.70.199:8000/play/a00j/index.m3u8
 
 # ===== Cartoon Network HD====
 #EXTINF:-1 group-title="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1200px-Cartoon_Network_HD_logo.svg.png?20220801034039",Cartoon Network HD 1
 https://fusion4k.wasmer.app/getlink/2477
 #EXTINF:-1 group-title="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1200px-Cartoon_Network_HD_logo.svg.png?20220801034039",Cartoon Network HD 2
-https://public.kliv.fun/4kmac26ns/play.php?id=475130
+https://tvmax4k.xocietylive.workers.dev/475130.m3u8
 #EXTINF:-1 group-title="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1200px-Cartoon_Network_HD_logo.svg.png?20220801034039",Cartoon Network HD 3
 https://public.kliv.fun/Macair30/play.php?id=11709
+#EXTINF:-1 group-title="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1200px-Cartoon_Network_HD_logo.svg.png?20220801034039",Cartoon Network HD 4
+https://public.kliv.fun/4kmac26ns/play.php?id=475130
 
 
 # ===== Sony Yay====
@@ -112,6 +116,8 @@ http://185.46.40.10/~acc141kliv2fun/Opx277/stream.php?id=388459
 https://public.kliv.fun/Macair30/play.php?id=58634
 #EXTINF:-1 group-title="24/7 Doraemon" tvg-logo="https://cdn.imgbin.com/3/12/4/doraemon-doraemon-holding-a-balloon-cartoon-illustration-KmqM76T4.jpg",4
 https://fusion4k.wasmer.app/getlink/2486
+#EXTINF:-1 group-title="24/7 Doraemon" tvg-logo="https://cdn.imgbin.com/3/12/4/doraemon-doraemon-holding-a-balloon-cartoon-illustration-KmqM76T4.jpg",4
+https://sparkling-bush-55fe.aayushmansinghrajpurohit95.workers.dev/481526.m3u8
 
 #======24/7 Shinchan====
 #EXTINF:-1 group-title="24/7 Shinchan" tvg-logo="https://static.vecteezy.com/system/resources/previews/033/693/017/non_2x/shinchan-cool-pose-with-sunglasses-free-vector.jpg",1
