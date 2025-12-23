@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Auto 48H EPG">
+<tv generator-info-name="Auto EPG">
 
   <channel id="disneychannel"><display-name>Disney Channel</display-name></channel>
   <channel id="hungama"><display-name>Hungama</display-name></channel>
