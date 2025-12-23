@@ -1,4 +1,3 @@
-# Force trigger Actions display
 name: Update EPG
 
 on:
@@ -20,10 +19,9 @@ jobs:
 
       - run: python generate_epg.py
 
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add epg.xml
-          git commit -m "Update EPG $(date)" || echo "No changes"
-          git push
+      - name: Commit and push epg.xml
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update EPG"
+          file_pattern: epg.xml
+
