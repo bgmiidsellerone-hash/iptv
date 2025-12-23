@@ -1,0 +1,2072 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="Custom Merged EPG" source-info-name="epg.pw" source-info-url="https://epg.pw/xmltv.html?lang=en"><channel id="disneychannel"><display-name>Disney Channel</display-name></channel><channel id="hungama"><display-name>Hungama</display-name></channel><channel id="sonysabhd"><display-name>Sony SAB HD</display-name></channel><channel id="sethd"><display-name>SET HD</display-name></channel><channel id="sonysab"><display-name>Sony SAB</display-name></channel><channel id="sonyten3hd"><display-name>Sony TEN 3 HD</display-name></channel><channel id="sonypal"><display-name>Sony PAL</display-name></channel><channel id="starsports1hd"><display-name>Star Sports 1 Hindi HD</display-name></channel><channel id="starsports2hd"><display-name>Star Sports 2 Hindi HD</display-name></channel><programme channel="disneychannel" start="20251223003000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223013000 +0000" stop="20251223053000 +0000">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223053000 +0000" stop="20251223063000 +0000">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223063000 +0000" stop="20251223083000 +0000">
+    <title lang="zh">Doraemon: Nobita's Dinosaur</title>
+    <desc>When Suneo does not show Nobita the fossil of a dinosaur claw, he takes up a challenge to find a dinosaur. He digs up a hillside and finds an egg, which later hatches and becomes a dinosaur.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223083000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">Munki and Trunk</title>
+    <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223123000 +0000" stop="20251223130000 +0000">
+    <title lang="zh">Munki and Trunk</title>
+    <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223130000 +0000" stop="20251223133000 +0000">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223133000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="disneychannel" start="20251223003000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223013000 +0000" stop="20251223053000 +0000">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223053000 +0000" stop="20251223063000 +0000">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223063000 +0000" stop="20251223083000 +0000">
+    <title lang="zh">Doraemon: Nobita's Dinosaur</title>
+    <desc>When Suneo does not show Nobita the fossil of a dinosaur claw, he takes up a challenge to find a dinosaur. He digs up a hillside and finds an egg, which later hatches and becomes a dinosaur.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223083000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">Munki and Trunk</title>
+    <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223123000 +0000" stop="20251223130000 +0000">
+    <title lang="zh">Munki and Trunk</title>
+    <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223130000 +0000" stop="20251223133000 +0000">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="disneychannel" start="20251223133000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="hungama" start="20251223003000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Atashinchi</title>
+    <desc>Mikan, Yuzuhiko and their parents navigate their daily lives while confronting various challenges. However, the Tachibana family is popular for their clumsiness.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223013000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">Selfie With Bajrangi</title>
+    <desc>Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223023000 +0000" stop="20251223033000 +0000">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223033000 +0000" stop="20251223040000 +0000">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223043000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223123000 +0000" stop="20251223153000 +0000">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223153000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="hungama" start="20251223003000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Atashinchi</title>
+    <desc>Mikan, Yuzuhiko and their parents navigate their daily lives while confronting various challenges. However, the Tachibana family is popular for their clumsiness.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223013000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">Selfie With Bajrangi</title>
+    <desc>Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223023000 +0000" stop="20251223033000 +0000">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223033000 +0000" stop="20251223040000 +0000">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223043000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223123000 +0000" stop="20251223153000 +0000">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="hungama" start="20251223153000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="sonysabhd" start="20251223000000 +0000" stop="20251223003000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223003000 +0000" stop="20251223010000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223013000 +0000" stop="20251223020000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223020000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223023000 +0000" stop="20251223030000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223030000 +0000" stop="20251223033000 +0000">
+    <title lang="zh">Maddam Sir</title>
+    <desc>Despite their collective best efforts, Haseena and her team are unable to find any evidence against Mr Mehra which frustrates them to no end.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223033000 +0000" stop="20251223040000 +0000">
+    <title lang="zh">Maddam Sir</title>
+    <desc>To catch Mr Mehra red-handed, Haseena sends her disguised team to his clinic. However, Haseena and her team find themselves held captive.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223043000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223050000 +0000" stop="20251223053000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223053000 +0000" stop="20251223060000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Champaklal attempts to persuade the children to eat and abandon their stubbornness. But soon, a new problem suddenly emerges.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223060000 +0000" stop="20251223063000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The colony members look forward to Tapu sharing his idea so that they can start the Rangarang program. Later, during the aarti, the plan is set into motion.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223063000 +0000" stop="20251223070000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223070000 +0000" stop="20251223073000 +0000">
+    <title lang="zh">Maddam Sir</title>
+    <desc>Despite their collective best efforts, Haseena and her team are unable to find any evidence against Mr Mehra which frustrates them to no end.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223073000 +0000" stop="20251223080000 +0000">
+    <title lang="zh">Maddam Sir</title>
+    <desc>To catch Mr Mehra red-handed, Haseena sends her disguised team to his clinic. However, Haseena and her team find themselves held captive.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223080000 +0000" stop="20251223083000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223083000 +0000" stop="20251223090000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223090000 +0000" stop="20251223093000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223093000 +0000" stop="20251223100000 +0000">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223100000 +0000" stop="20251223103000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223103000 +0000" stop="20251223110000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223110000 +0000" stop="20251223113000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223113000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223123000 +0000" stop="20251223130000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Champaklal attempts to persuade the children to eat and abandon their stubbornness. But soon, a new problem suddenly emerges.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223130000 +0000" stop="20251223133000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The colony members look forward to Tapu sharing his idea so that they can start the Rangarang program. Later, during the aarti, the plan is set into motion.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223133000 +0000" stop="20251223140000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Veer and Bansri are devastated by what the colony members have done. Soon, the colony members leaves everything up to Bappa.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223140000 +0000" stop="20251223143000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Lord Ganesh, touched by Veer and Bansri's devotion, accepts their laddoos and appears before them. Afterward, the children gather everyone in the society compound.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223143000 +0000" stop="20251223150000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223150000 +0000" stop="20251223153000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223153000 +0000" stop="20251223160000 +0000">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223160000 +0000" stop="20251223163000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223163000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Maddam Sir</title>
+    <desc>Despite their collective best efforts, Haseena and her team are unable to find any evidence against Mr Mehra which frustrates them to no end.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="sonysabhd" start="20251223000000 +0000" stop="20251223003000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223003000 +0000" stop="20251223010000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223013000 +0000" stop="20251223020000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223020000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223023000 +0000" stop="20251223030000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223030000 +0000" stop="20251223033000 +0000">
+    <title lang="zh">Maddam Sir</title>
+    <desc>Despite their collective best efforts, Haseena and her team are unable to find any evidence against Mr Mehra which frustrates them to no end.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223033000 +0000" stop="20251223040000 +0000">
+    <title lang="zh">Maddam Sir</title>
+    <desc>To catch Mr Mehra red-handed, Haseena sends her disguised team to his clinic. However, Haseena and her team find themselves held captive.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223043000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223050000 +0000" stop="20251223053000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223053000 +0000" stop="20251223060000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Champaklal attempts to persuade the children to eat and abandon their stubbornness. But soon, a new problem suddenly emerges.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223060000 +0000" stop="20251223063000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The colony members look forward to Tapu sharing his idea so that they can start the Rangarang program. Later, during the aarti, the plan is set into motion.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223063000 +0000" stop="20251223070000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223070000 +0000" stop="20251223073000 +0000">
+    <title lang="zh">Maddam Sir</title>
+    <desc>Despite their collective best efforts, Haseena and her team are unable to find any evidence against Mr Mehra which frustrates them to no end.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223073000 +0000" stop="20251223080000 +0000">
+    <title lang="zh">Maddam Sir</title>
+    <desc>To catch Mr Mehra red-handed, Haseena sends her disguised team to his clinic. However, Haseena and her team find themselves held captive.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223080000 +0000" stop="20251223083000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223083000 +0000" stop="20251223090000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223090000 +0000" stop="20251223093000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223093000 +0000" stop="20251223100000 +0000">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223100000 +0000" stop="20251223103000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223103000 +0000" stop="20251223110000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223110000 +0000" stop="20251223113000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223113000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223123000 +0000" stop="20251223130000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Champaklal attempts to persuade the children to eat and abandon their stubbornness. But soon, a new problem suddenly emerges.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223130000 +0000" stop="20251223133000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The colony members look forward to Tapu sharing his idea so that they can start the Rangarang program. Later, during the aarti, the plan is set into motion.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223133000 +0000" stop="20251223140000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Veer and Bansri are devastated by what the colony members have done. Soon, the colony members leaves everything up to Bappa.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223140000 +0000" stop="20251223143000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Lord Ganesh, touched by Veer and Bansri's devotion, accepts their laddoos and appears before them. Afterward, the children gather everyone in the society compound.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223143000 +0000" stop="20251223150000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223150000 +0000" stop="20251223153000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223153000 +0000" stop="20251223160000 +0000">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223160000 +0000" stop="20251223163000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysabhd" start="20251223163000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Maddam Sir</title>
+    <desc>Despite their collective best efforts, Haseena and her team are unable to find any evidence against Mr Mehra which frustrates them to no end.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="sethd" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223013000 +0000" stop="20251223021000 +0000">
+    <title lang="zh">The Kapil Sharma Show - Masti Lagataar</title>
+    <desc>Host Kapil Sharma invites celebrity guests, who discuss their latest projects, while keeping the audience laughing with his humourous take on several topics.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223021000 +0000" stop="20251223034000 +0000">
+    <title lang="zh">Kaun Banega Crorepati</title>
+    <desc>Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223034000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">Best of the Kapil Sharma Show</title>
+    <desc>A compilation of the best moments from the Kapil Sharma Show features the renowned comedian Kapil Sharma entertaining the audience with hilarious skits and interactions.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223050000 +0000" stop="20251223062000 +0000">
+    <title lang="zh">Best of the Kapil Sharma Show</title>
+    <desc>A compilation of the best moments from the Kapil Sharma Show features the renowned comedian Kapil Sharma entertaining the audience with hilarious skits and interactions.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223062000 +0000" stop="20251223074000 +0000">
+    <title lang="zh">Indian Idol</title>
+    <desc>Various talented participants from India compete against each other during a singing competition in order to impress the judges and win the title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223074000 +0000" stop="20251223083000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223083000 +0000" stop="20251223092000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223092000 +0000" stop="20251223101000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223101000 +0000" stop="20251223115000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223115000 +0000" stop="20251223124000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223124000 +0000" stop="20251223133000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223133000 +0000" stop="20251223140000 +0000">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Sumati plans to meet Ashok's teacher before his scholarship exam. On the other hand, Sai performs a miracle, and the cows at Kulkarni's house stop giving milk.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223140000 +0000" stop="20251223143000 +0000">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Chandorkar meets Sai and seeks his help to save his daughter, who is in Jamner. Following this, Sai asks one of his devotees to carry the holy ash to Jamner and give it to Chandorkar's daughter.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223143000 +0000" stop="20251223150000 +0000">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Chandorkar meets Sai and asks him to treat his ailing daughter, Maina. Following this, Maina receives the holy ash sent by Sai.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223150000 +0000" stop="20251223153000 +0000">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Chandorkar joyfully thanks Sai for saving Maina's life. Later, as Kulkarni lashes Raghav, Sai absorbs the pain himself.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223153000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Kaun Banega Crorepati</title>
+    <desc>Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="sethd" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223013000 +0000" stop="20251223021000 +0000">
+    <title lang="zh">The Kapil Sharma Show - Masti Lagataar</title>
+    <desc>Host Kapil Sharma invites celebrity guests, who discuss their latest projects, while keeping the audience laughing with his humourous take on several topics.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223021000 +0000" stop="20251223034000 +0000">
+    <title lang="zh">Kaun Banega Crorepati</title>
+    <desc>Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223034000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">Best of the Kapil Sharma Show</title>
+    <desc>A compilation of the best moments from the Kapil Sharma Show features the renowned comedian Kapil Sharma entertaining the audience with hilarious skits and interactions.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223050000 +0000" stop="20251223062000 +0000">
+    <title lang="zh">Best of the Kapil Sharma Show</title>
+    <desc>A compilation of the best moments from the Kapil Sharma Show features the renowned comedian Kapil Sharma entertaining the audience with hilarious skits and interactions.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223062000 +0000" stop="20251223074000 +0000">
+    <title lang="zh">Indian Idol</title>
+    <desc>Various talented participants from India compete against each other during a singing competition in order to impress the judges and win the title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223074000 +0000" stop="20251223083000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223083000 +0000" stop="20251223092000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223092000 +0000" stop="20251223101000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223101000 +0000" stop="20251223115000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223115000 +0000" stop="20251223124000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223124000 +0000" stop="20251223133000 +0000">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223133000 +0000" stop="20251223140000 +0000">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Sumati plans to meet Ashok's teacher before his scholarship exam. On the other hand, Sai performs a miracle, and the cows at Kulkarni's house stop giving milk.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223140000 +0000" stop="20251223143000 +0000">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Chandorkar meets Sai and seeks his help to save his daughter, who is in Jamner. Following this, Sai asks one of his devotees to carry the holy ash to Jamner and give it to Chandorkar's daughter.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223143000 +0000" stop="20251223150000 +0000">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Chandorkar meets Sai and asks him to treat his ailing daughter, Maina. Following this, Maina receives the holy ash sent by Sai.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223150000 +0000" stop="20251223153000 +0000">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Chandorkar joyfully thanks Sai for saving Maina's life. Later, as Kulkarni lashes Raghav, Sai absorbs the pain himself.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sethd" start="20251223153000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Kaun Banega Crorepati</title>
+    <desc>Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="sonysab" start="20251223000000 +0000" stop="20251223003000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223003000 +0000" stop="20251223010000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223013000 +0000" stop="20251223020000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As the society members enjoy their time in Singapore, Champakal suddenly becomes afraid of boarding the cruise.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223020000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Champaklal finds Popatlal dancing with women on the sixth deck, and Bhide informs everyone about a popular show that will take place on the ship.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223023000 +0000" stop="20251223030000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Popatlal becomes friendly with two girls and takes photos with them. Everyone receive a stern message from their sponsor.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223030000 +0000" stop="20251223033000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>After making the residents of Gokuldham run around, their trip sponsor reveals himself. He reveals the reason behind his gesture and gives them some sound advice.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223033000 +0000" stop="20251223040000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Anjali reminds Taarak of the diet he has to follow after reaching home. Everyone praises Abdul for writing the thought for the day on the board in Iyer's absence.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Popatlal calls Asit and expresses his gratitude for sponsoring the trip to Singapore.Goli gives his father a pleasant surprise.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223043000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Babita and Jethalal relive their Singapore trip memories with Iyer. Popatlal begins his day with radiating positivity.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223050000 +0000" stop="20251223053000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal is annoyed that Bawri keeps visiting the store, so Nattu Kaka is afraid to ask for an increased salary. Taarak's boss overhears Taarak complain about him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223053000 +0000" stop="20251223060000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223060000 +0000" stop="20251223063000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Jethalal ponders Taarak's news, he ignores Bapu Ji's instruction. Taarak eventually learns that he will be going on a trip to Europe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223063000 +0000" stop="20251223070000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak Mehta looks for a yellow shirt all over Gokuldham Society, but the one Popatlal gives him is too small.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223070000 +0000" stop="20251223073000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak Mehta gets a yellow shirt from his neighbour, but it is too big. They decide to go to Bhide's house to fix the shirt.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223073000 +0000" stop="20251223080000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak Mehta finally gets a yellow shirt that fits from Iyer. Popatlal prays to God for Taarak's yellow shirt.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223080000 +0000" stop="20251223083000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak Mehta requires a yellow shirt for his presentation, making Iyer search the entire building to find one for him. Popatlal prays to God to grant him a shirt.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223083000 +0000" stop="20251223090000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak wears a yellow shirt to work, but it gets ruined accidentally. Champaklal promises to visit the office and speak with Tarak's boss.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223090000 +0000" stop="20251223093000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Tarak Mehta has to wear a yellow shirt for his presentation, but he accidentally ruins the shirt. His boss gets mad and demands an explanation when he shows up in a green shirt.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223093000 +0000" stop="20251223100000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak is ready to quit the company after his boss blames him for failing to deal with the client. However, the client changes his mind and Taarak's boss begs him to stay.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223100000 +0000" stop="20251223103000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The deal between the client and Taarak's company is successfully finalised. Taarak tells Anjali and Jethalal about his reward trip to Europe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223103000 +0000" stop="20251223110000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Anjali is excited about the trip to Europe Taarak's boss is sponsoring. Taarak tells his friends how Champaklal helped him with his yellow shirt.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223110000 +0000" stop="20251223113000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak's boss is coming over to visit Badey Guruji. However, Taarak does not want him to meet Bapuji, so he is doing everything he can to avoid the two from meeting.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223113000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak's boss arrives at Gokuldham and notices Bapuji on a balcony. Taarak falsely claims Guruji is on pilgrimage.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak's boss sees Bade Guruji instantly after entering the society, but Bade Guruji evades him successfully by disguising himself.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223123000 +0000" stop="20251223130000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Bawri comes to Jethalal's shop to buy a television, but Jethalal refuses to sell it and makes her leave because he thinks she is only asking like the customer he met before.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223130000 +0000" stop="20251223133000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223133000 +0000" stop="20251223140000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>After learning that there is a big television order, Jethalal must handle it and find out about a mess in the delivery.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223140000 +0000" stop="20251223143000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223143000 +0000" stop="20251223150000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>The untold story of the divine brothers of the Shiv Parivaar: Lord Ganesh and Lord Kartikeya. They are a family bound by devotion, challenged by destiny and united by eternal love.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223150000 +0000" stop="20251223153000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223153000 +0000" stop="20251223160000 +0000">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the burden of raising her five siblings amidst their father's alcoholism.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223160000 +0000" stop="20251223163000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223163000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak confesses that he has no clue about the events happening. Later, things get worse for Taarak when the mysterious woman says that she is coming to meet him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="sonysab" start="20251223000000 +0000" stop="20251223003000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223003000 +0000" stop="20251223010000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223013000 +0000" stop="20251223020000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As the society members enjoy their time in Singapore, Champakal suddenly becomes afraid of boarding the cruise.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223020000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Champaklal finds Popatlal dancing with women on the sixth deck, and Bhide informs everyone about a popular show that will take place on the ship.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223023000 +0000" stop="20251223030000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Popatlal becomes friendly with two girls and takes photos with them. Everyone receive a stern message from their sponsor.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223030000 +0000" stop="20251223033000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>After making the residents of Gokuldham run around, their trip sponsor reveals himself. He reveals the reason behind his gesture and gives them some sound advice.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223033000 +0000" stop="20251223040000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Anjali reminds Taarak of the diet he has to follow after reaching home. Everyone praises Abdul for writing the thought for the day on the board in Iyer's absence.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Popatlal calls Asit and expresses his gratitude for sponsoring the trip to Singapore.Goli gives his father a pleasant surprise.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223043000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Babita and Jethalal relive their Singapore trip memories with Iyer. Popatlal begins his day with radiating positivity.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223050000 +0000" stop="20251223053000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal is annoyed that Bawri keeps visiting the store, so Nattu Kaka is afraid to ask for an increased salary. Taarak's boss overhears Taarak complain about him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223053000 +0000" stop="20251223060000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223060000 +0000" stop="20251223063000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Jethalal ponders Taarak's news, he ignores Bapu Ji's instruction. Taarak eventually learns that he will be going on a trip to Europe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223063000 +0000" stop="20251223070000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak Mehta looks for a yellow shirt all over Gokuldham Society, but the one Popatlal gives him is too small.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223070000 +0000" stop="20251223073000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak Mehta gets a yellow shirt from his neighbour, but it is too big. They decide to go to Bhide's house to fix the shirt.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223073000 +0000" stop="20251223080000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak Mehta finally gets a yellow shirt that fits from Iyer. Popatlal prays to God for Taarak's yellow shirt.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223080000 +0000" stop="20251223083000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak Mehta requires a yellow shirt for his presentation, making Iyer search the entire building to find one for him. Popatlal prays to God to grant him a shirt.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223083000 +0000" stop="20251223090000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak wears a yellow shirt to work, but it gets ruined accidentally. Champaklal promises to visit the office and speak with Tarak's boss.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223090000 +0000" stop="20251223093000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Tarak Mehta has to wear a yellow shirt for his presentation, but he accidentally ruins the shirt. His boss gets mad and demands an explanation when he shows up in a green shirt.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223093000 +0000" stop="20251223100000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak is ready to quit the company after his boss blames him for failing to deal with the client. However, the client changes his mind and Taarak's boss begs him to stay.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223100000 +0000" stop="20251223103000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The deal between the client and Taarak's company is successfully finalised. Taarak tells Anjali and Jethalal about his reward trip to Europe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223103000 +0000" stop="20251223110000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Anjali is excited about the trip to Europe Taarak's boss is sponsoring. Taarak tells his friends how Champaklal helped him with his yellow shirt.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223110000 +0000" stop="20251223113000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak's boss is coming over to visit Badey Guruji. However, Taarak does not want him to meet Bapuji, so he is doing everything he can to avoid the two from meeting.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223113000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak's boss arrives at Gokuldham and notices Bapuji on a balcony. Taarak falsely claims Guruji is on pilgrimage.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak's boss sees Bade Guruji instantly after entering the society, but Bade Guruji evades him successfully by disguising himself.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223123000 +0000" stop="20251223130000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Bawri comes to Jethalal's shop to buy a television, but Jethalal refuses to sell it and makes her leave because he thinks she is only asking like the customer he met before.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223130000 +0000" stop="20251223133000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223133000 +0000" stop="20251223140000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>After learning that there is a big television order, Jethalal must handle it and find out about a mess in the delivery.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223140000 +0000" stop="20251223143000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223143000 +0000" stop="20251223150000 +0000">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>The untold story of the divine brothers of the Shiv Parivaar: Lord Ganesh and Lord Kartikeya. They are a family bound by devotion, challenged by destiny and united by eternal love.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223150000 +0000" stop="20251223153000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223153000 +0000" stop="20251223160000 +0000">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the burden of raising her five siblings amidst their father's alcoholism.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223160000 +0000" stop="20251223163000 +0000">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonysab" start="20251223163000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak confesses that he has no clue about the events happening. Later, things get worse for Taarak when the mysterious woman says that she is coming to meet him.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="sonyten3hd" start="20251223003000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">2017: 2nd ODI, Sri Lanka vs India; One-Day International Cricket</title>
+    <desc>Sri Lanka competes against India in their second One-Day International match in 2017, where the two professional cricket teams vie for victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223013000 +0000" stop="20251223020000 +0000">
+    <title lang="zh">Afghanistan vs. Sri Lanka; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223020000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">Bangladesh vs. Nepal; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223023000 +0000" stop="20251223033000 +0000">
+    <title lang="zh">UFC 323 : Dvalishvili vs. Yan; MMA</title>
+    <desc>This is Sport - Martial Arts Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223033000 +0000" stop="20251223040000 +0000">
+    <title lang="zh">1st T20 :England v India; Women's T20 Cricket</title>
+    <desc>Highlights from the first T20 International match between England and India, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">Afghanistan vs. Sri Lanka; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223043000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">Bangladesh vs. Nepal; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223050000 +0000" stop="20251223084500 +0000">
+    <title lang="zh">2017: 1st ODI- Sri Lanka vs India; One-Day International Cricket</title>
+    <desc>Sri Lanka competes against India in their first One Day International match in 2017, where the two professional cricket teams vie for victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223084500 +0000" stop="20251223091500 +0000">
+    <title lang="zh">Afghanistan vs. Sri Lanka; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223091500 +0000" stop="20251223130000 +0000">
+    <title lang="zh">2017: 1st ODI- Sri Lanka vs India; One-Day International Cricket</title>
+    <desc>Sri Lanka competes against India in their first One Day International match in 2017, where the two professional cricket teams vie for victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223130000 +0000" stop="20251223140000 +0000">
+    <title lang="zh">India vs. Malaysia; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223140000 +0000" stop="20251223150000 +0000">
+    <title lang="zh">UFC 317: Topuria vs Oliveira</title>
+    <desc>Undefeated champion Ilia Topuria faces the formidable Charles Oliveira in the UFC International Fight Week finale, vying for victory and the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223150000 +0000" stop="20251223153000 +0000">
+    <title lang="zh">India vs. Malaysia; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223153000 +0000" stop="20251223160000 +0000">
+    <title lang="zh">Pakistan vs. UAE; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223160000 +0000" stop="20251223163000 +0000">
+    <title lang="zh">Internazionale - Liverpool; UEFA Champions League Highlights</title>
+    <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223163000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">UFC 320: Ankalaev vs Pereira  2</title>
+    <desc>Professional mixed martial artists Magomed Ankalaev and Alex Pereira compete against each other to emerge victorious in UFC 320.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="sonyten3hd" start="20251223003000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">2017: 2nd ODI, Sri Lanka vs India; One-Day International Cricket</title>
+    <desc>Sri Lanka competes against India in their second One-Day International match in 2017, where the two professional cricket teams vie for victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223013000 +0000" stop="20251223020000 +0000">
+    <title lang="zh">Afghanistan vs. Sri Lanka; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223020000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">Bangladesh vs. Nepal; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223023000 +0000" stop="20251223033000 +0000">
+    <title lang="zh">UFC 323 : Dvalishvili vs. Yan; MMA</title>
+    <desc>This is Sport - Martial Arts Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223033000 +0000" stop="20251223040000 +0000">
+    <title lang="zh">1st T20 :England v India; Women's T20 Cricket</title>
+    <desc>Highlights from the first T20 International match between England and India, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">Afghanistan vs. Sri Lanka; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223043000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">Bangladesh vs. Nepal; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223050000 +0000" stop="20251223084500 +0000">
+    <title lang="zh">2017: 1st ODI- Sri Lanka vs India; One-Day International Cricket</title>
+    <desc>Sri Lanka competes against India in their first One Day International match in 2017, where the two professional cricket teams vie for victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223084500 +0000" stop="20251223091500 +0000">
+    <title lang="zh">Afghanistan vs. Sri Lanka; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223091500 +0000" stop="20251223130000 +0000">
+    <title lang="zh">2017: 1st ODI- Sri Lanka vs India; One-Day International Cricket</title>
+    <desc>Sri Lanka competes against India in their first One Day International match in 2017, where the two professional cricket teams vie for victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223130000 +0000" stop="20251223140000 +0000">
+    <title lang="zh">India vs. Malaysia; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223140000 +0000" stop="20251223150000 +0000">
+    <title lang="zh">UFC 317: Topuria vs Oliveira</title>
+    <desc>Undefeated champion Ilia Topuria faces the formidable Charles Oliveira in the UFC International Fight Week finale, vying for victory and the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223150000 +0000" stop="20251223153000 +0000">
+    <title lang="zh">India vs. Malaysia; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223153000 +0000" stop="20251223160000 +0000">
+    <title lang="zh">Pakistan vs. UAE; ACC Men's U19 Asia Cup</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223160000 +0000" stop="20251223163000 +0000">
+    <title lang="zh">Internazionale - Liverpool; UEFA Champions League Highlights</title>
+    <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20251223163000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">UFC 320: Ankalaev vs Pereira  2</title>
+    <desc>Professional mixed martial artists Magomed Ankalaev and Alex Pereira compete against each other to emerge victorious in UFC 320.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="sonypal" start="20251223000000 +0000" stop="20251223003000 +0000">
+    <title lang="zh">Teleshopping</title>
+    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223003000 +0000" stop="20251223010000 +0000">
+    <title lang="zh">Teleshopping</title>
+    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Teleshopping</title>
+    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223013000 +0000" stop="20251223021700 +0000">
+    <title lang="zh">The Kapil Sharma Show</title>
+    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223021700 +0000" stop="20251223033100 +0000">
+    <title lang="zh">The Kapil Sharma Show</title>
+    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223033100 +0000" stop="20251223035600 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223035600 +0000" stop="20251223042500 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223042500 +0000" stop="20251223045300 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223045300 +0000" stop="20251223051900 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223051900 +0000" stop="20251223053400 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223053400 +0000" stop="20251223055900 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223055900 +0000" stop="20251223062500 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223062500 +0000" stop="20251223065000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223065000 +0000" stop="20251223071800 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223071800 +0000" stop="20251223074600 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223074600 +0000" stop="20251223081400 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223081400 +0000" stop="20251223083400 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223083400 +0000" stop="20251223090300 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223090300 +0000" stop="20251223093200 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223093200 +0000" stop="20251223103200 +0000">
+    <title lang="zh">CID</title>
+    <desc>Shailesh is left stunned when he finds his brother dead in the house. Later, ACP Pradyuman and his team find some footprints that can lead them to the culprit.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223103200 +0000" stop="20251223113100 +0000">
+    <title lang="zh">CID</title>
+    <desc>Shailesh is left stunned when he finds his brother dead in the house. Later, ACP Pradyuman and his team find some footprints that can lead them to the culprit.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223113100 +0000" stop="20251223115900 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223115900 +0000" stop="20251223122900 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223122900 +0000" stop="20251223125600 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223125600 +0000" stop="20251223132400 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223132400 +0000" stop="20251223134900 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223134900 +0000" stop="20251223141400 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Daya lands in trouble as Jethalal confronts her about buying a bomb for Diwali for Tapu. Meanwhile, Bhide worries about how he will celebrate Diwali as none of his students have paid their fees.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223141400 +0000" stop="20251223143300 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Daya lands in trouble as Jethalal confronts her about buying a bomb for Diwali for Tapu. Meanwhile, Bhide worries about how he will celebrate Diwali as none of his students have paid their fees.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223143300 +0000" stop="20251223145800 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Daya lands in trouble as Jethalal confronts her about buying a bomb for Diwali for Tapu. Meanwhile, Bhide worries about how he will celebrate Diwali as none of his students have paid their fees.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223145800 +0000" stop="20251223161300 +0000">
+    <title lang="zh">The Kapil Sharma Show</title>
+    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223161300 +0000" stop="20251224000000 +0000">
+    <title lang="zh">The Kapil Sharma Show</title>
+    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="sonypal" start="20251223000000 +0000" stop="20251223003000 +0000">
+    <title lang="zh">Teleshopping</title>
+    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223003000 +0000" stop="20251223010000 +0000">
+    <title lang="zh">Teleshopping</title>
+    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">Teleshopping</title>
+    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223013000 +0000" stop="20251223021700 +0000">
+    <title lang="zh">The Kapil Sharma Show</title>
+    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223021700 +0000" stop="20251223033100 +0000">
+    <title lang="zh">The Kapil Sharma Show</title>
+    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223033100 +0000" stop="20251223035600 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223035600 +0000" stop="20251223042500 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223042500 +0000" stop="20251223045300 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223045300 +0000" stop="20251223051900 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223051900 +0000" stop="20251223053400 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223053400 +0000" stop="20251223055900 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223055900 +0000" stop="20251223062500 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223062500 +0000" stop="20251223065000 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223065000 +0000" stop="20251223071800 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223071800 +0000" stop="20251223074600 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223074600 +0000" stop="20251223081400 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223081400 +0000" stop="20251223083400 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223083400 +0000" stop="20251223090300 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223090300 +0000" stop="20251223093200 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223093200 +0000" stop="20251223103200 +0000">
+    <title lang="zh">CID</title>
+    <desc>Shailesh is left stunned when he finds his brother dead in the house. Later, ACP Pradyuman and his team find some footprints that can lead them to the culprit.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223103200 +0000" stop="20251223113100 +0000">
+    <title lang="zh">CID</title>
+    <desc>Shailesh is left stunned when he finds his brother dead in the house. Later, ACP Pradyuman and his team find some footprints that can lead them to the culprit.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223113100 +0000" stop="20251223115900 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223115900 +0000" stop="20251223122900 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223122900 +0000" stop="20251223125600 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223125600 +0000" stop="20251223132400 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223132400 +0000" stop="20251223134900 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Bhide takes a picture of Jethalal while he is cleaning the house, Jethalal is left fuming. Later, Nattu Kaka informs Jethalal about a new scheme ahead of Diwali.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223134900 +0000" stop="20251223141400 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Daya lands in trouble as Jethalal confronts her about buying a bomb for Diwali for Tapu. Meanwhile, Bhide worries about how he will celebrate Diwali as none of his students have paid their fees.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223141400 +0000" stop="20251223143300 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Daya lands in trouble as Jethalal confronts her about buying a bomb for Diwali for Tapu. Meanwhile, Bhide worries about how he will celebrate Diwali as none of his students have paid their fees.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223143300 +0000" stop="20251223145800 +0000">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Daya lands in trouble as Jethalal confronts her about buying a bomb for Diwali for Tapu. Meanwhile, Bhide worries about how he will celebrate Diwali as none of his students have paid their fees.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223145800 +0000" stop="20251223161300 +0000">
+    <title lang="zh">The Kapil Sharma Show</title>
+    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="sonypal" start="20251223161300 +0000" stop="20251224000000 +0000">
+    <title lang="zh">The Kapil Sharma Show</title>
+    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="starsports1hd" start="20251223000000 +0000" stop="20251223003000 +0000">
+    <title lang="zh">ICC T20 WC 2022 BAN v ZIM; Cricket Highlights</title>
+    <desc>Highlights from various international cricket tournaments wherein professional cricket teams compete with each other for victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223003000 +0000" stop="20251223010000 +0000">
+    <title lang="zh">Tata Ipl 2024: SRH vs PK - 69th Match; Cricket Highlights</title>
+    <desc>Highlights of the cricket match between Indian Premier League teams Sunrisers Hyderabad and Punjab Kings, where both teams compete to emerge victorious.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">ICC Mens T20 WC 2024: Australia vs Scotland - 35th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223013000 +0000" stop="20251223020000 +0000">
+    <title lang="zh">Tata Ipl 2023: CSK vs PK - 41st Match; Cricket Highlights</title>
+    <desc>Highlights from the 41st match of the 2023 Indian Premier League cricket season between Chennai Super Kings and Punjab Kings.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223020000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">ICC T20 World Cup 2024 Australia vs India, 51st Match; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223023000 +0000" stop="20251223024500 +0000">
+    <title lang="zh">TATA WPL 2026 Countdown</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223024500 +0000" stop="20251223031500 +0000">
+    <title lang="zh">Royal Challengers Bengaluru vs. Punjab Kings 74th Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of the 74th match between Royal Challengers Bengaluru and Punjab Kings during the Indian Premier League, a professional Twenty20 cricket league.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223031500 +0000" stop="20251223033000 +0000">
+    <title lang="zh">1st ODI: India v South Africa; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223033000 +0000" stop="20251223040000 +0000">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">ICC CT 2025</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223043000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">Champions 2025; Total KBD</title>
+    <desc>This is Sport - Kabaddi Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223050000 +0000" stop="20251223051500 +0000">
+    <title lang="zh">South Africa T20 League: Pretoria Capitals vs. Paarl Royals; Cricket Highlights</title>
+    <desc>Highlights of the best moments from the cricket match between Pretoria Capitals and Paarl Royal teams at the South Africa T20 League.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223051500 +0000" stop="20251223053000 +0000">
+    <title lang="zh">TATA WPL 2026 Countdown</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223053000 +0000" stop="20251223060000 +0000">
+    <title lang="zh">India vs. South Africa; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223060000 +0000" stop="20251223061500 +0000">
+    <title lang="zh">Ipl 2024: GT vs PK - 17th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223061500 +0000" stop="20251223063000 +0000">
+    <title lang="zh">India vs Sri Lanka 1st T20; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223063000 +0000" stop="20251223070000 +0000">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223070000 +0000" stop="20251223071500 +0000">
+    <title lang="zh">Royal Challengers Bengaluru vs Chennai Super Kings, 52nd Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of an IPL match between Royal Challengers Bengaluru and Chennai Super Kings, where the winner advances to the next stage.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223071500 +0000" stop="20251223073000 +0000">
+    <title lang="zh">3rd ODI: Australia v India; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223073000 +0000" stop="20251223113000 +0000">
+    <title lang="zh">Mumbai Indians vs. Royal Challengers Bengaluru; TATA IPL 2025</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223113000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">Road To Glory ICC Women's WC</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">India vs Sri Lanka 1st T20; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223123000 +0000" stop="20251223125800 +0000">
+    <title lang="zh">India vs. South Africa; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223125800 +0000" stop="20251223132000 +0000">
+    <title lang="zh">Live - Women's T20: India vs Sri Lanka; Cricket Pre Show</title>
+    <desc>Experts discuss the possible team and player strategies and predict the outcomes of the matches played during various cricket tournaments.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223132000 +0000" stop="20251223150000 +0000">
+    <title lang="zh">Live - 2nd T20: India vs. Sri Lanka; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams from around the globe compete against each other in high-stakes T20 cricket matches to claim victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223150000 +0000" stop="20251223151500 +0000">
+    <title lang="zh">Live - Women's T20: India vs Sri Lanka; Cricket Mid Show</title>
+    <desc>Experts discuss the possible team and player strategies and predict the outcomes of the matches played during various cricket tournaments.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223151500 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Live - 2nd T20: India vs. Sri Lanka; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams from around the globe compete against each other in high-stakes T20 cricket matches to claim victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="starsports1hd" start="20251223000000 +0000" stop="20251223003000 +0000">
+    <title lang="zh">ICC T20 WC 2022 BAN v ZIM; Cricket Highlights</title>
+    <desc>Highlights from various international cricket tournaments wherein professional cricket teams compete with each other for victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223003000 +0000" stop="20251223010000 +0000">
+    <title lang="zh">Tata Ipl 2024: SRH vs PK - 69th Match; Cricket Highlights</title>
+    <desc>Highlights of the cricket match between Indian Premier League teams Sunrisers Hyderabad and Punjab Kings, where both teams compete to emerge victorious.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">ICC Mens T20 WC 2024: Australia vs Scotland - 35th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223013000 +0000" stop="20251223020000 +0000">
+    <title lang="zh">Tata Ipl 2023: CSK vs PK - 41st Match; Cricket Highlights</title>
+    <desc>Highlights from the 41st match of the 2023 Indian Premier League cricket season between Chennai Super Kings and Punjab Kings.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223020000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">ICC T20 World Cup 2024 Australia vs India, 51st Match; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223023000 +0000" stop="20251223024500 +0000">
+    <title lang="zh">TATA WPL 2026 Countdown</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223024500 +0000" stop="20251223031500 +0000">
+    <title lang="zh">Royal Challengers Bengaluru vs. Punjab Kings 74th Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of the 74th match between Royal Challengers Bengaluru and Punjab Kings during the Indian Premier League, a professional Twenty20 cricket league.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223031500 +0000" stop="20251223033000 +0000">
+    <title lang="zh">1st ODI: India v South Africa; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223033000 +0000" stop="20251223040000 +0000">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">ICC CT 2025</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223043000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">Champions 2025; Total KBD</title>
+    <desc>This is Sport - Kabaddi Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223050000 +0000" stop="20251223051500 +0000">
+    <title lang="zh">South Africa T20 League: Pretoria Capitals vs. Paarl Royals; Cricket Highlights</title>
+    <desc>Highlights of the best moments from the cricket match between Pretoria Capitals and Paarl Royal teams at the South Africa T20 League.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223051500 +0000" stop="20251223053000 +0000">
+    <title lang="zh">TATA WPL 2026 Countdown</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223053000 +0000" stop="20251223060000 +0000">
+    <title lang="zh">India vs. South Africa; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223060000 +0000" stop="20251223061500 +0000">
+    <title lang="zh">Ipl 2024: GT vs PK - 17th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223061500 +0000" stop="20251223063000 +0000">
+    <title lang="zh">India vs Sri Lanka 1st T20; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223063000 +0000" stop="20251223070000 +0000">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223070000 +0000" stop="20251223071500 +0000">
+    <title lang="zh">Royal Challengers Bengaluru vs Chennai Super Kings, 52nd Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of an IPL match between Royal Challengers Bengaluru and Chennai Super Kings, where the winner advances to the next stage.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223071500 +0000" stop="20251223073000 +0000">
+    <title lang="zh">3rd ODI: Australia v India; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223073000 +0000" stop="20251223113000 +0000">
+    <title lang="zh">Mumbai Indians vs. Royal Challengers Bengaluru; TATA IPL 2025</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223113000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">Road To Glory ICC Women's WC</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">India vs Sri Lanka 1st T20; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223123000 +0000" stop="20251223125800 +0000">
+    <title lang="zh">India vs. South Africa; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223125800 +0000" stop="20251223132000 +0000">
+    <title lang="zh">Live - Women's T20: India vs Sri Lanka; Cricket Pre Show</title>
+    <desc>Experts discuss the possible team and player strategies and predict the outcomes of the matches played during various cricket tournaments.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223132000 +0000" stop="20251223150000 +0000">
+    <title lang="zh">Live - 2nd T20: India vs. Sri Lanka; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams from around the globe compete against each other in high-stakes T20 cricket matches to claim victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223150000 +0000" stop="20251223151500 +0000">
+    <title lang="zh">Live - Women's T20: India vs Sri Lanka; Cricket Mid Show</title>
+    <desc>Experts discuss the possible team and player strategies and predict the outcomes of the matches played during various cricket tournaments.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports1hd" start="20251223151500 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Live - 2nd T20: India vs. Sri Lanka; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams from around the globe compete against each other in high-stakes T20 cricket matches to claim victory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="starsports2hd" start="20251223003000 +0000" stop="20251223010000 +0000">
+    <title lang="zh">Mumbai Indians vs Royal Challengers Bengaluru; TATA IPL 2025 Highlights</title>
+    <desc>Watch the thrilling highlights of the 2025 TATA-IPL from the fierce battle between Mumbai Indians and Royal Challengers Bengaluru.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">India v Bangladesh 2024; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223013000 +0000" stop="20251223020000 +0000">
+    <title lang="zh">Lucknow Super Giants vs Gujarat Titans; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of a cricket match between Indian Premier League teams Lucknow Super Giants and Gujarat Titans where the winner advances to the next stage.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223020000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">ICC World T20I 2022 - India vs Bangladesh; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223023000 +0000" stop="20251223030000 +0000">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223030000 +0000" stop="20251223031500 +0000">
+    <title lang="zh">1st ODI: India v South Africa; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223031500 +0000" stop="20251223033000 +0000">
+    <title lang="zh">3rd ODI: Australia v India; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223033000 +0000" stop="20251223034500 +0000">
+    <title lang="zh">South Africa T20 League: Paarl Royals vs. MI Cape Town; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223034500 +0000" stop="20251223040000 +0000">
+    <title lang="zh">Durban Super Kings v MI Cape Town; SA20</title>
+    <desc>Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">ICC CWC 2023 India vs New Zealand, 21st Match; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223043000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">TATA WPL 2026 Know Your Team</title>
+    <desc>This is Sport - Sport Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223050000 +0000" stop="20251223053000 +0000">
+    <title lang="zh">India vs. South Africa; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223053000 +0000" stop="20251223060000 +0000">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223060000 +0000" stop="20251223063000 +0000">
+    <title lang="zh">ICC T20 World Cup 2024 Australia vs India, 51st Match; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223063000 +0000" stop="20251223070000 +0000">
+    <title lang="zh">Chennai Super Kings vs Royal Challengers Bengaluru, 8th Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of Chennai Super Kings and Royal Challengers Bengaluru competing against each other in the Indian Premier League to emerge victorious and win the coveted trophy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223070000 +0000" stop="20251223073000 +0000">
+    <title lang="zh">ICC World T20 Highlights</title>
+    <desc>Highlighting the major moments from the ICC T20 world cup. The presenter covers everything from the soaring sixes to game changing wickets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223073000 +0000" stop="20251223074500 +0000">
+    <title lang="zh">WPL Countdown</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223074500 +0000" stop="20251223080000 +0000">
+    <title lang="zh">TATA WPL Highlights</title>
+    <desc>Highlights of professional women players competing against each other to emerge victorious and win the coveted trophy of the Tata Women's Premier League.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223080000 +0000" stop="20251223081500 +0000">
+    <title lang="zh">3rd T20: Australia vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223081500 +0000" stop="20251223083000 +0000">
+    <title lang="zh">5th T20: India vs. South Africa; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223083000 +0000" stop="20251223090000 +0000">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223090000 +0000" stop="20251223093000 +0000">
+    <title lang="zh">Punjab Kings vs Kolkata Knight Riders; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of a cricket match between Indian Premier League teams Punjab Kings and Kolkata Knight Riders where the winner advances to the next stage.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223093000 +0000" stop="20251223104500 +0000">
+    <title lang="zh">Rise Of Champions 2025</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223104500 +0000" stop="20251223110000 +0000">
+    <title lang="zh">WPL Countdown</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223110000 +0000" stop="20251223113000 +0000">
+    <title lang="zh">India vs. South Africa; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223113000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">ICC Champions Trophy Highlights</title>
+    <desc>Highlights of all the action from the matches played in the ICC Champions Trophy, a cricket tournament wherein several international teams compete for glory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223123000 +0000" stop="20251223130000 +0000">
+    <title lang="zh">Mumbai Indians vs Gujarat Titans, 56th Match; TATA IPL 2025 Highlights</title>
+    <desc>Watch the highlights and best moments from the thrilling match between Mumbai Indians and Gujarat Titans at the 2025 Tata IPL.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223130000 +0000" stop="20251223133000 +0000">
+    <title lang="zh">Mumbai Indians vs Royal Challengers Bengaluru; TATA IPL 2025 Highlights</title>
+    <desc>Watch the thrilling highlights of the 2025 TATA-IPL from the fierce battle between Mumbai Indians and Royal Challengers Bengaluru.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223133000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Mumbai Indians vs Royal Challengers Bengaluru; TATA IPL 2025 Highlights</title>
+    <desc>Watch the thrilling highlights of the 2025 TATA-IPL from the fierce battle between Mumbai Indians and Royal Challengers Bengaluru.</desc>
+    <date>2025-12-23</date>
+  </programme>
+<programme channel="starsports2hd" start="20251223003000 +0000" stop="20251223010000 +0000">
+    <title lang="zh">Mumbai Indians vs Royal Challengers Bengaluru; TATA IPL 2025 Highlights</title>
+    <desc>Watch the thrilling highlights of the 2025 TATA-IPL from the fierce battle between Mumbai Indians and Royal Challengers Bengaluru.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223010000 +0000" stop="20251223013000 +0000">
+    <title lang="zh">India v Bangladesh 2024; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223013000 +0000" stop="20251223020000 +0000">
+    <title lang="zh">Lucknow Super Giants vs Gujarat Titans; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of a cricket match between Indian Premier League teams Lucknow Super Giants and Gujarat Titans where the winner advances to the next stage.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223020000 +0000" stop="20251223023000 +0000">
+    <title lang="zh">ICC World T20I 2022 - India vs Bangladesh; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223023000 +0000" stop="20251223030000 +0000">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223030000 +0000" stop="20251223031500 +0000">
+    <title lang="zh">1st ODI: India v South Africa; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223031500 +0000" stop="20251223033000 +0000">
+    <title lang="zh">3rd ODI: Australia v India; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223033000 +0000" stop="20251223034500 +0000">
+    <title lang="zh">South Africa T20 League: Paarl Royals vs. MI Cape Town; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223034500 +0000" stop="20251223040000 +0000">
+    <title lang="zh">Durban Super Kings v MI Cape Town; SA20</title>
+    <desc>Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223040000 +0000" stop="20251223043000 +0000">
+    <title lang="zh">ICC CWC 2023 India vs New Zealand, 21st Match; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223043000 +0000" stop="20251223050000 +0000">
+    <title lang="zh">TATA WPL 2026 Know Your Team</title>
+    <desc>This is Sport - Sport Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223050000 +0000" stop="20251223053000 +0000">
+    <title lang="zh">India vs. South Africa; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223053000 +0000" stop="20251223060000 +0000">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223060000 +0000" stop="20251223063000 +0000">
+    <title lang="zh">ICC T20 World Cup 2024 Australia vs India, 51st Match; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223063000 +0000" stop="20251223070000 +0000">
+    <title lang="zh">Chennai Super Kings vs Royal Challengers Bengaluru, 8th Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of Chennai Super Kings and Royal Challengers Bengaluru competing against each other in the Indian Premier League to emerge victorious and win the coveted trophy.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223070000 +0000" stop="20251223073000 +0000">
+    <title lang="zh">ICC World T20 Highlights</title>
+    <desc>Highlighting the major moments from the ICC T20 world cup. The presenter covers everything from the soaring sixes to game changing wickets.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223073000 +0000" stop="20251223074500 +0000">
+    <title lang="zh">WPL Countdown</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223074500 +0000" stop="20251223080000 +0000">
+    <title lang="zh">TATA WPL Highlights</title>
+    <desc>Highlights of professional women players competing against each other to emerge victorious and win the coveted trophy of the Tata Women's Premier League.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223080000 +0000" stop="20251223081500 +0000">
+    <title lang="zh">3rd T20: Australia vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223081500 +0000" stop="20251223083000 +0000">
+    <title lang="zh">5th T20: India vs. South Africa; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223083000 +0000" stop="20251223090000 +0000">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223090000 +0000" stop="20251223093000 +0000">
+    <title lang="zh">Punjab Kings vs Kolkata Knight Riders; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of a cricket match between Indian Premier League teams Punjab Kings and Kolkata Knight Riders where the winner advances to the next stage.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223093000 +0000" stop="20251223104500 +0000">
+    <title lang="zh">Rise Of Champions 2025</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223104500 +0000" stop="20251223110000 +0000">
+    <title lang="zh">WPL Countdown</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223110000 +0000" stop="20251223113000 +0000">
+    <title lang="zh">India vs. South Africa; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223113000 +0000" stop="20251223120000 +0000">
+    <title lang="zh">ICC Champions Trophy Highlights</title>
+    <desc>Highlights of all the action from the matches played in the ICC Champions Trophy, a cricket tournament wherein several international teams compete for glory.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223120000 +0000" stop="20251223123000 +0000">
+    <title lang="zh">Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223123000 +0000" stop="20251223130000 +0000">
+    <title lang="zh">Mumbai Indians vs Gujarat Titans, 56th Match; TATA IPL 2025 Highlights</title>
+    <desc>Watch the highlights and best moments from the thrilling match between Mumbai Indians and Gujarat Titans at the 2025 Tata IPL.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223130000 +0000" stop="20251223133000 +0000">
+    <title lang="zh">Mumbai Indians vs Royal Challengers Bengaluru; TATA IPL 2025 Highlights</title>
+    <desc>Watch the thrilling highlights of the 2025 TATA-IPL from the fierce battle between Mumbai Indians and Royal Challengers Bengaluru.</desc>
+    <date>2025-12-23</date>
+  </programme>
+  <programme channel="starsports2hd" start="20251223133000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Mumbai Indians vs Royal Challengers Bengaluru; TATA IPL 2025 Highlights</title>
+    <desc>Watch the thrilling highlights of the 2025 TATA-IPL from the fierce battle between Mumbai Indians and Royal Challengers Bengaluru.</desc>
+    <date>2025-12-23</date>
+  </programme>
+</tv>
