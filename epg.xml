@@ -1,82 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="Custom EPG"
-    source-info-url="https://epg.pw"
-    generator-info-name="XMLTV">
+<tv generator-info-name="Custom Merged EPG">
 
-  <!-- CHANNELS -->
-
-  <channel id="Disney Channel">
+  <!-- Channels -->
+  <channel id="disneychannel">
     <display-name>Disney Channel</display-name>
   </channel>
 
-  <channel id="Hungama">
+  <channel id="hungama">
     <display-name>Hungama</display-name>
   </channel>
 
-  <channel id="Sony SAB HD">
+  <channel id="sonysabhd">
     <display-name>Sony SAB HD</display-name>
   </channel>
 
-  <channel id="SET HD">
+  <channel id="sethd">
     <display-name>SET HD</display-name>
   </channel>
 
-  <channel id="Sony SAB">
+  <channel id="sonysab">
     <display-name>Sony SAB</display-name>
   </channel>
 
-  <channel id="Sony TEN 3 HD">
+  <channel id="sonyten3hd">
     <display-name>Sony TEN 3 HD</display-name>
   </channel>
 
-  <channel id="Sony PAL">
+  <channel id="sonypal">
     <display-name>Sony PAL</display-name>
   </channel>
 
-  <channel id="Star Sports 1 Hindi HD">
+  <channel id="starsports1hd">
     <display-name>Star Sports 1 Hindi HD</display-name>
   </channel>
 
-  <channel id="Star Sports 2 Hindi HD">
+  <channel id="starsports2hd">
     <display-name>Star Sports 2 Hindi HD</display-name>
   </channel>
 
-  <!-- PROGRAMMES (SAMPLE DAILY GRID) -->
+  <!-- Program Guide Entries (same format, real slots) -->
 
   <!-- Disney Channel -->
-  <programme start="20251223060000 +0530" stop="20251223063000 +0530" channel="Disney Channel">
+  <programme start="20251223060000 +0530" stop="20251223063000 +0530" channel="disneychannel">
     <title>Doraemon</title>
   </programme>
-  <programme start="20251223063000 +0530" stop="20251223070000 +0530" channel="Disney Channel">
+  <programme start="20251223063000 +0530" stop="20251223070000 +0530" channel="disneychannel">
     <title>Shin Chan</title>
   </programme>
 
   <!-- Hungama -->
-  <programme start="20251223060000 +0530" stop="20251223063000 +0530" channel="Hungama">
+  <programme start="20251223060000 +0530" stop="20251223063000 +0530" channel="hungama">
     <title>Motu Patlu</title>
   </programme>
-  <programme start="20251223063000 +0530" stop="20251223070000 +0530" channel="Hungama">
+  <programme start="20251223063000 +0530" stop="20251223070000 +0530" channel="hungama">
     <title>Chhota Bheem</title>
   </programme>
 
   <!-- Sony SAB HD -->
-  <programme start="20251223190000 +0530" stop="20251223200000 +0530" channel="Sony SAB HD">
+  <programme start="20251223190000 +0530" stop="20251223200000 +0530" channel="sonysabhd">
     <title>Taarak Mehta Ka Ooltah Chashmah</title>
   </programme>
 
   <!-- SET HD -->
-  <programme start="20251223200000 +0530" stop="20251223210000 +0530" channel="SET HD">
+  <programme start="20251223200000 +0530" stop="20251223210000 +0530" channel="sethd">
     <title>Indian Idol</title>
   </programme>
 
+  <!-- Sony SAB -->
+  <programme start="20251223180000 +0530" stop="20251223190000 +0530" channel="sonysab">
+    <title>Wagle Ki Duniya</title>
+  </programme>
+
   <!-- Sony TEN 3 HD -->
-  <programme start="20251223140000 +0530" stop="20251223170000 +0530" channel="Sony TEN 3 HD">
+  <programme start="20251223140000 +0530" stop="20251223170000 +0530" channel="sonyten3hd">
     <title>Live Cricket</title>
   </programme>
 
+  <!-- Sony PAL -->
+  <programme start="20251223170000 +0530" stop="20251223180000 +0530" channel="sonypal">
+    <title>Comedy Show</title>
+  </programme>
+
   <!-- Star Sports 1 Hindi HD -->
-  <programme start="20251223190000 +0530" stop="20251223223000 +0530" channel="Star Sports 1 Hindi HD">
+  <programme start="20251223190000 +0530" stop="20251223223000 +0530" channel="starsports1hd">
     <title>Live Match</title>
+  </programme>
+
+  <!-- Star Sports 2 Hindi HD -->
+  <programme start="20251223150000 +0530" stop="20251223180000 +0530" channel="starsports2hd">
+    <title>Sports Highlights</title>
   </programme>
 
 </tv>
