@@ -1,4 +1,4 @@
-name: Auto 48H EPG
+name: Auto 48H EPG 
 
 on:
   workflow_dispatch:
