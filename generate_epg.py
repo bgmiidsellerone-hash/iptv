@@ -13,6 +13,7 @@ CHANNELS = {
     "sonypal": 463919,
     "starsports1hd": 464249,
     "starsports2hd": 463839,
+    "sonyyay": 464116,
 }
 
 BASE_URL = "https://epg.pw/api/epg.xml?lang=en&date={date}&channel_id={cid}"
@@ -37,6 +38,7 @@ def add_channels():
         "sonypal": "Sony PAL",
         "starsports1hd": "Star Sports 1 Hindi HD",
         "starsports2hd": "Star Sports 2 Hindi HD",
+        "sonyyay": "Sony Yay",
     }
     for cid, name in channels_def.items():
         ch = ET.SubElement(tv, "channel", {"id": cid})
