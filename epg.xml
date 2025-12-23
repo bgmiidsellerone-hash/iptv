@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom India EPG">
+
+  <!-- Channels -->
+  <channel id="disney">
+    <display-name>Disney Channel</display-name>
+  </channel>
+
+  <channel id="hungama">
+    <display-name>Hungama</display-name>
+  </channel>
+
+  <channel id="sonysabhd">
+    <display-name>Sony SAB HD</display-name>
+  </channel>
+
+  <channel id="sethd">
+    <display-name>SET HD</display-name>
+  </channel>
+
+  <channel id="sonysab">
+    <display-name>Sony SAB</display-name>
+  </channel>
+
+  <channel id="sonyten3hd">
+    <display-name>Sony TEN 3 HD</display-name>
+  </channel>
+
+  <channel id="sonypal">
+    <display-name>Sony PAL</display-name>
+  </channel>
+
+  <channel id="starsports1hd">
+    <display-name>Star Sports 1 Hindi HD</display-name>
+  </channel>
+
+  <channel id="starsports2hd">
+    <display-name>Star Sports 2 Hindi HD</display-name>
+  </channel>
+
+  <!-- Program placeholders (EPG loads correctly) -->
+
+  <programme start="20251223000000 +0530" stop="20251223235959 +0530" channel="disney">
+    <title>Disney Channel Programs</title>
+  </programme>
+
+  <programme start="20251223000000 +0530" stop="20251223235959 +0530" channel="hungama">
+    <title>Hungama Programs</title>
+  </programme>
+
+  <programme start="20251223000000 +0530" stop="20251223235959 +0530" channel="sonysabhd">
+    <title>Sony SAB HD Programs</title>
+  </programme>
+
+  <programme start="20251223000000 +0530" stop="20251223235959 +0530" channel="sethd">
+    <title>SET HD Programs</title>
+  </programme>
+
+  <programme start="20251223000000 +0530" stop="20251223235959 +0530" channel="sonysab">
+    <title>Sony SAB Programs</title>
+  </programme>
+
+  <programme start="20251223000000 +0530" stop="20251223235959 +0530" channel="sonyten3hd">
+    <title>Sony TEN 3 HD Programs</title>
+  </programme>
+
+  <programme start="20251223000000 +0530" stop="20251223235959 +0530" channel="sonypal">
+    <title>Sony PAL Programs</title>
+  </programme>
+
+  <programme start="20251223000000 +0530" stop="20251223235959 +0530" channel="starsports1hd">
+    <title>Star Sports 1 Hindi HD Programs</title>
+  </programme>
+
+  <programme start="20251223000000 +0530" stop="20251223235959 +0530" channel="starsports2hd">
+    <title>Star Sports 2 Hindi HD Programs</title>
+  </programme>
+
+</tv>
