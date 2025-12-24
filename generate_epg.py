@@ -5,18 +5,18 @@ import xml.etree.ElementTree as ET
 # Target timezone: Asia/Kolkata (UTC+5:30)
 IST_OFFSET = dt.timedelta(hours=5, minutes=30)
 
-# Your channels mapped to epg.pw IDs
+# Your channels mapped to epg.pw IDs (order matters in Python 3.7+)
 CHANNELS = {
-    "disneychannel": 464229,
     "hungama": 463988,
+    "disneychannel": 464229,
+    "sonyyay": 464116,
+    "sonypal": 463919,
+    "sonysab": 463922,
     "sonysabhd": 463827,
     "sethd": 464105,
-    "sonysab": 463922,
-    "sonyten3hd": 464048,
-    "sonypal": 463919,
     "starsports1hd": 464249,
     "starsports2hd": 463839,
-    "sonyyay": 464116,
+    "sonyten3hd": 464048,
 }
 
 BASE_URL = "https://epg.pw/api/epg.xml?lang=en&date={date}&channel_id={cid}"
@@ -31,17 +31,18 @@ tv = ET.Element(
 )
 
 def add_channels():
+    # Same order here so <channel> elements follow your sequence
     channels_def = {
-        "disneychannel": "Disney Channel",
         "hungama": "Hungama",
+        "disneychannel": "Disney Channel",
+        "sonyyay": "Sony Yay",
+        "sonypal": "Sony PAL",
+        "sonysab": "Sony SAB",
         "sonysabhd": "Sony SAB HD",
         "sethd": "SET HD",
-        "sonysab": "Sony SAB",
-        "sonyten3hd": "Sony TEN 3 HD",
-        "sonypal": "Sony PAL",
         "starsports1hd": "Star Sports 1 Hindi HD",
         "starsports2hd": "Star Sports 2 Hindi HD",
-        "sonyyay": "Sony Yay",
+        "sonyten3hd": "Sony TEN 3 HD",
     }
     for cid, name in channels_def.items():
         ch = ET.SubElement(tv, "channel", {"id": cid})
@@ -56,8 +57,7 @@ def fetch_epg(date_str, epg_id):
 
 def normalize_programme_times_to_ist(prog: ET.Element):
     """
-    If epg.pw already returns Kolkata times, we only force the offset
-    to be +0530 in the output for consistency.
+    Treat source times as Kolkata local and force +0530 offset.
     """
     for attr in ["start", "stop"]:
         v = prog.get(attr)
@@ -65,15 +65,12 @@ def normalize_programme_times_to_ist(prog: ET.Element):
             continue
 
         value = v.strip()
-        # take base part (YYYYMMDDHHMMSS)
         if " " in value:
             base, _ = value.split(" ", 1)
         else:
             base = value
 
-        # interpret as local IST time
         dt_base = dt.datetime.strptime(base, "%Y%m%d%H%M%S")
-        # just write it back with +0530
         prog.set(attr, dt_base.strftime("%Y%m%d%H%M%S") + " +0530")
 
 def copy_programmes(epg_root, target_channel_id):
