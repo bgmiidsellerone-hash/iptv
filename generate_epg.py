@@ -19,21 +19,6 @@ CHANNELS = {
     "sonyyay": 464116,
 }
 
-# Per-channel source timezone offsets (relative to UTC)
-# Disney: Moscow (UTC+3). All others: Kolkata (UTC+5:30).
-CHANNEL_SOURCE_OFFSETS = {
-    "disneychannel": dt.timedelta(hours=3),  # Moscow
-    "hungama": IST_OFFSET,
-    "sonysabhd": IST_OFFSET,
-    "sethd": IST_OFFSET,
-    "sonysab": IST_OFFSET,
-    "sonyten3hd": IST_OFFSET,
-    "sonypal": IST_OFFSET,
-    "starsports1hd": IST_OFFSET,
-    "starsports2hd": IST_OFFSET,
-    "sonyyay": IST_OFFSET,
-}
-
 BASE_URL = "https://epg.pw/api/epg.xml?lang=en&date={date}&channel_id={cid}"
 
 tv = ET.Element(
@@ -69,21 +54,10 @@ def fetch_epg(date_str, epg_id):
     r.raise_for_status()
     return ET.fromstring(r.content)
 
-def format_xmltv_time_ist(source_dt: dt.datetime, source_offset: dt.timedelta) -> str:
+def normalize_programme_times_to_ist(prog: ET.Element):
     """
-    Convert a naive datetime that is local in source_offset to IST (+0530),
-    and return XMLTV time string.
-    """
-    # local (source) -> UTC
-    utc_dt = source_dt - source_offset
-    # UTC -> IST
-    ist_dt = utc_dt + IST_OFFSET
-    return ist_dt.strftime("%Y%m%d%H%M%S") + " +0530"
-
-def normalize_programme_times(prog: ET.Element, source_offset: dt.timedelta):
-    """
-    Convert programme start/stop from source_offset to IST.
-    Ignores any offset in the original string and uses per-channel offset.
+    If epg.pw already returns Kolkata times, we only force the offset
+    to be +0530 in the output for consistency.
     """
     for attr in ["start", "stop"]:
         v = prog.get(attr)
@@ -91,20 +65,21 @@ def normalize_programme_times(prog: ET.Element, source_offset: dt.timedelta):
             continue
 
         value = v.strip()
-        # take only base time part (YYYYMMDDHHMMSS)
+        # take base part (YYYYMMDDHHMMSS)
         if " " in value:
             base, _ = value.split(" ", 1)
         else:
             base = value
 
+        # interpret as local IST time
         dt_base = dt.datetime.strptime(base, "%Y%m%d%H%M%S")
-        prog.set(attr, format_xmltv_time_ist(dt_base, source_offset))
+        # just write it back with +0530
+        prog.set(attr, dt_base.strftime("%Y%m%d%H%M%S") + " +0530")
 
 def copy_programmes(epg_root, target_channel_id):
-    source_offset = CHANNEL_SOURCE_OFFSETS.get(target_channel_id, IST_OFFSET)
     for prog in epg_root.findall("programme"):
         prog.set("channel", target_channel_id)
-        normalize_programme_times(prog, source_offset)
+        normalize_programme_times_to_ist(prog)
         tv.append(prog)
 
 def main():
