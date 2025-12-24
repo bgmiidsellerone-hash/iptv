@@ -1,90 +1,90 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="Custom Merged EPG" source-info-name="epg.pw" source-info-url="https://epg.pw/xmltv.html?lang=en"><channel id="disneychannel"><display-name>Disney Channel</display-name></channel><channel id="hungama"><display-name>Hungama</display-name></channel><channel id="sonysabhd"><display-name>Sony SAB HD</display-name></channel><channel id="sethd"><display-name>SET HD</display-name></channel><channel id="sonysab"><display-name>Sony SAB</display-name></channel><channel id="sonyten3hd"><display-name>Sony TEN 3 HD</display-name></channel><channel id="sonypal"><display-name>Sony PAL</display-name></channel><channel id="starsports1hd"><display-name>Star Sports 1 Hindi HD</display-name></channel><channel id="starsports2hd"><display-name>Star Sports 2 Hindi HD</display-name></channel><channel id="sonyyay"><display-name>Sony Yay</display-name></channel><programme channel="disneychannel" start="20251224030000 +0530" stop="20251224040000 +0530">
+<tv generator-info-name="Custom Merged EPG" source-info-name="epg.pw" source-info-url="https://epg.pw/xmltv.html?lang=en"><channel id="disneychannel"><display-name>Disney Channel</display-name></channel><channel id="hungama"><display-name>Hungama</display-name></channel><channel id="sonysabhd"><display-name>Sony SAB HD</display-name></channel><channel id="sethd"><display-name>SET HD</display-name></channel><channel id="sonysab"><display-name>Sony SAB</display-name></channel><channel id="sonyten3hd"><display-name>Sony TEN 3 HD</display-name></channel><channel id="sonypal"><display-name>Sony PAL</display-name></channel><channel id="starsports1hd"><display-name>Star Sports 1 Hindi HD</display-name></channel><channel id="starsports2hd"><display-name>Star Sports 2 Hindi HD</display-name></channel><channel id="sonyyay"><display-name>Sony Yay</display-name></channel><programme channel="disneychannel" start="20251224003000 +0530" stop="20251224013000 +0530">
     <title lang="zh">Perman</title>
     <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224040000 +0530" stop="20251224080000 +0530">
+  <programme channel="disneychannel" start="20251224013000 +0530" stop="20251224053000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224080000 +0530" stop="20251224090000 +0530">
+  <programme channel="disneychannel" start="20251224053000 +0530" stop="20251224063000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224090000 +0530" stop="20251224110000 +0530">
+  <programme channel="disneychannel" start="20251224063000 +0530" stop="20251224083000 +0530">
     <title lang="zh">Doraemon: Nobita Drifts in the Universe</title>
     <desc>While on an adventure in space, Doraemon and the gang end up in the middle of an interstellar war where a group of aliens wants to take over earth. So, they join the other side to defeat the villains.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224110000 +0530" stop="20251224143000 +0530">
+  <programme channel="disneychannel" start="20251224083000 +0530" stop="20251224120000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224143000 +0530" stop="20251224150000 +0530">
+  <programme channel="disneychannel" start="20251224120000 +0530" stop="20251224123000 +0530">
     <title lang="zh">Munki and Trunk</title>
     <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224150000 +0530" stop="20251224153000 +0530">
+  <programme channel="disneychannel" start="20251224123000 +0530" stop="20251224130000 +0530">
     <title lang="zh">Munki and Trunk</title>
     <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224153000 +0530" stop="20251224160000 +0530">
+  <programme channel="disneychannel" start="20251224130000 +0530" stop="20251224133000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224160000 +0530" stop="20251225023000 +0530">
+  <programme channel="disneychannel" start="20251224133000 +0530" stop="20251225000000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2025-12-24</date>
   </programme>
-<programme channel="disneychannel" start="20251224030000 +0530" stop="20251224040000 +0530">
+<programme channel="disneychannel" start="20251224003000 +0530" stop="20251224013000 +0530">
     <title lang="zh">Perman</title>
     <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224040000 +0530" stop="20251224080000 +0530">
+  <programme channel="disneychannel" start="20251224013000 +0530" stop="20251224053000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224080000 +0530" stop="20251224090000 +0530">
+  <programme channel="disneychannel" start="20251224053000 +0530" stop="20251224063000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224090000 +0530" stop="20251224110000 +0530">
+  <programme channel="disneychannel" start="20251224063000 +0530" stop="20251224083000 +0530">
     <title lang="zh">Doraemon: Nobita Drifts in the Universe</title>
     <desc>While on an adventure in space, Doraemon and the gang end up in the middle of an interstellar war where a group of aliens wants to take over earth. So, they join the other side to defeat the villains.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224110000 +0530" stop="20251224143000 +0530">
+  <programme channel="disneychannel" start="20251224083000 +0530" stop="20251224120000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224143000 +0530" stop="20251224150000 +0530">
+  <programme channel="disneychannel" start="20251224120000 +0530" stop="20251224123000 +0530">
     <title lang="zh">Munki and Trunk</title>
     <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224150000 +0530" stop="20251224153000 +0530">
+  <programme channel="disneychannel" start="20251224123000 +0530" stop="20251224130000 +0530">
     <title lang="zh">Munki and Trunk</title>
     <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224153000 +0530" stop="20251224160000 +0530">
+  <programme channel="disneychannel" start="20251224130000 +0530" stop="20251224133000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2025-12-24</date>
   </programme>
-  <programme channel="disneychannel" start="20251224160000 +0530" stop="20251225023000 +0530">
+  <programme channel="disneychannel" start="20251224133000 +0530" stop="20251225000000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2025-12-24</date>
