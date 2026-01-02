@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9 (Android TV)
+
+#EXTINF:-1,IPTV Playlist
+https://game.denver1769.fun/Jtv/WCz7JR/Playlist.m3u
