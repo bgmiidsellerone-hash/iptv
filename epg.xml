@@ -1,5 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="Custom Merged EPG" source-info-name="epg.pw" source-info-url="https://epg.pw/xmltv.html?lang=en"><channel id="hungama"><display-name>Hungama</display-name></channel><channel id="disneychannel"><display-name>Disney Channel</display-name></channel><channel id="sonyyay"><display-name>Sony Yay</display-name></channel><channel id="sonypal"><display-name>Sony PAL</display-name></channel><channel id="sonysab"><display-name>Sony SAB</display-name></channel><channel id="sonysabhd"><display-name>Sony SAB HD</display-name></channel><channel id="sethd"><display-name>SET HD</display-name></channel><channel id="starsports1hd"><display-name>Star Sports 1 Hindi HD</display-name></channel><channel id="starsports2hd"><display-name>Star Sports 2 Hindi HD</display-name></channel><channel id="sonyten3hd"><display-name>Sony TEN 3 HD</display-name></channel><programme channel="disneychannel" start="20260210003000 +0530" stop="20260210013000 +0530">
+<tv generator-info-name="Custom Merged EPG" source-info-name="epg.pw" source-info-url="https://epg.pw/xmltv.html?lang=en"><channel id="hungama"><display-name>Hungama</display-name></channel><channel id="disneychannel"><display-name>Disney Channel</display-name></channel><channel id="sonyyay"><display-name>Sony Yay</display-name></channel><channel id="sonypal"><display-name>Sony PAL</display-name></channel><channel id="sonysab"><display-name>Sony SAB</display-name></channel><channel id="sonysabhd"><display-name>Sony SAB HD</display-name></channel><channel id="sethd"><display-name>SET HD</display-name></channel><channel id="starsports1hd"><display-name>Star Sports 1 Hindi HD</display-name></channel><channel id="starsports2hd"><display-name>Star Sports 2 Hindi HD</display-name></channel><channel id="sonyten3hd"><display-name>Sony TEN 3 HD</display-name></channel><programme channel="hungama" start="20260210003000 +0530" stop="20260210013000 +0530">
+    <title lang="zh">Atashinchi</title>
+    <desc>Mikan, Yuzuhiko and their parents navigate their daily lives while confronting various challenges. However, the Tachibana family is known for their clumsiness.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="hungama" start="20260210013000 +0530" stop="20260210023000 +0530">
+    <title lang="zh">Selfie With Bajrangi</title>
+    <desc>Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="hungama" start="20260210023000 +0530" stop="20260210033000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="hungama" start="20260210033000 +0530" stop="20260210040000 +0530">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="hungama" start="20260210040000 +0530" stop="20260210043000 +0530">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="hungama" start="20260210043000 +0530" stop="20260210120000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="hungama" start="20260210120000 +0530" stop="20260210123000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="hungama" start="20260210123000 +0530" stop="20260210153000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="hungama" start="20260210153000 +0530" stop="20260211000000 +0530">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2026-02-10</date>
+  </programme>
+<programme channel="disneychannel" start="20260210003000 +0530" stop="20260210013000 +0530">
     <title lang="zh">Perman</title>
     <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
     <date>2026-02-10</date>
@@ -357,6 +402,226 @@
   <programme channel="sonyyay" start="20260210094000 +0530" stop="20260211000000 +0530">
     <title lang="zh">Shin Chan</title>
     <desc>When a cockroach infests the house, Misae asks Shin-chan to help her be rid of it. However, misadventures ensue and the cockroach remains.</desc>
+    <date>2026-02-10</date>
+  </programme>
+<programme channel="sonypal" start="20260210000000 +0530" stop="20260210003000 +0530">
+    <title lang="zh">Teleshopping</title>
+    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210003000 +0530" stop="20260210010000 +0530">
+    <title lang="zh">Teleshopping</title>
+    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210010000 +0530" stop="20260210013000 +0530">
+    <title lang="zh">Teleshopping</title>
+    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210013000 +0530" stop="20260210013600 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210013600 +0530" stop="20260210014600 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210014600 +0530" stop="20260210015500 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210015500 +0530" stop="20260210020200 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210020200 +0530" stop="20260210020900 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210020900 +0530" stop="20260210021600 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210021600 +0530" stop="20260210022300 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210022300 +0530" stop="20260210023000 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210023000 +0530" stop="20260210023800 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210023800 +0530" stop="20260210024500 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210024500 +0530" stop="20260210025500 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210025500 +0530" stop="20260210030200 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210030200 +0530" stop="20260210031200 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210031200 +0530" stop="20260210031900 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210031900 +0530" stop="20260210032600 +0530">
+    <title lang="zh">Ding Dong Bell...Masti Ka Khel</title>
+    <desc>Three chicks named Ding, Dong and Bell try to outrun Bhukkad, a hungry fox who is determined to eat them. As Bhukkad chases them, the birds come up with creative and hilarious ways to avoid him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210032600 +0530" stop="20260210035300 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal tells Daya a secret about Taarak and reminds her to not reveal it to anyone; Bhide makes Bagha install security cameras in the society clubhouse.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210035300 +0530" stop="20260210041800 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The women of Gokuldham gather in the clubhouse to talk about their husbands' secrets. Meanwhile, Jethalal and his friends watch them through the security cameras.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210041800 +0530" stop="20260210043700 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The men of Gokuldham confront their wives in the clubhouse and ask them why they would reveal their secrets. They further disclose that they saw them doing this on the CCTV cameras.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210043700 +0530" stop="20260210045900 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Daya informs Jethalal that she is hosting a garba class for her friends in the clubhouse; Bawree wishes to attend a garba programme and asks Bagha to buy her tickets.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210045900 +0530" stop="20260210053000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>After giving it a lot of thought, the residents of Gokuldham set out to welcome Lord Ganesha. However, they encounter numerous obstacles along the way.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210053000 +0530" stop="20260210055700 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal is annoyed when his uncle suddenly drops in for a visit. Soon, he tries to get rid of his uncle at the earliest.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210055700 +0530" stop="20260210062500 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal is left in a lurch as his relative moves in with him unannounced and to make things worse, Jethalal is forced to pay for his relative's commute to Mumbai..</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210062500 +0530" stop="20260210065300 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents begin their Ganesh Chaturthi festivities. Later, they dress up as various famous historical figures for a skit.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210065300 +0530" stop="20260210072100 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The Gokuldham Society residents pay a tribute to the freedom fighters who fought for Indian Independence.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210072100 +0530" stop="20260210074100 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The Gokuldham Society residents continue to display their various costumes during the Ganesh Chaturthi festivities.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210074100 +0530" stop="20260210080900 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Bhide impresses the other residents with his spectacular performace. Meanwhile, Jethalal is blown away by Babita's performance.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210080900 +0530" stop="20260210083600 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As the residents of Gokuldham take the stage dressed up as various freedom fighters, it inspires everyone watching the event. Later, Tapu Sena takes the stage with an act of their own.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210083600 +0530" stop="20260210090300 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As the competition continues, Popatlal and Jethalal finally get their chance to display their costumes.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210090300 +0530" stop="20260210092900 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Bhide realises that his scooter is falling apart. Soon, he enlists Sodhi's help to find the perfect mechanic.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210092900 +0530" stop="20260210095200 +0530">
+    <title lang="zh">Baalveer Returns</title>
+    <desc>Natkhat Pari and Dooba Dooba go to Dagli House disguised as Baalveer and Meher, everyone is happy seeing both the kids. Baalveer and Meher are in Pari.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210095200 +0530" stop="20260210102800 +0530">
+    <title lang="zh">Baalveer Returns</title>
+    <desc>Baalveer and Meher continue on their path to get Pari Tara avoiding everyone in Pari Lok. Meanwhile, Natkhat Pari and Dooba Dooba are trying their best.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210102800 +0530" stop="20260210112200 +0530">
+    <title lang="zh">Champions Ka Tashan</title>
+    <desc>Celebrity singer, Hirdesh Singh, is invited to judge the contestants. Later Sanchit, from team Super Dancer, captivates the audience with his moves.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210112200 +0530" stop="20260210114900 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Popatlal anxiously begs Asit to get him married as soon as possible; Tapu Sena takes on the responsibility of organising a New Year party in Gokuldham.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210114900 +0530" stop="20260210121700 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal orders some food for his friends and invites them over for a meal. However, Anjali soon finds the bill and questions Taarak Mehta about the matter.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210121700 +0530" stop="20260210124100 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Anjali hires Goli to spy on Taarak Mehta and Jethalal while they eat at a restaurant. Later, Tapu keeps a close eye on the duo.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210124100 +0530" stop="20260210131100 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Troubled by her husband's dietary issues, Anjali asks for advice from the Mahila Mandal. So, Babita takes Anjali to a well-known dietician who recommends the 'Khiladi Diet' for Taarak.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210131100 +0530" stop="20260210133600 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak arrives at the soda shop to meet his friends after eating a delicious meal cooked by Anjali. The next day, Anjali serves a special dish to Taarak and Jethalal.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210133600 +0530" stop="20260210135800 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Anjali and Taarak have a heated argument in front of Jethalal. Later, Goli decides to apologise to Taarak for causing so much trouble.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210135800 +0530" stop="20260210142500 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak tries to escape his tedious diet at work. However, Anjali has yet another clever trick up her sleeve.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210142500 +0530" stop="20260210155300 +0530">
+    <title lang="zh">India's Got Talent</title>
+    <desc>Amateur performers from across India present unique acts before celebrity judges and a nationwide audience in order to advance in the competition and win a huge prize.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="sonypal" start="20260210155300 +0530" stop="20260211000000 +0530">
+    <title lang="zh">Super Dancer -- Chapter 4</title>
+    <desc>Various skilled children from around the country present captivating dance performances as they vie for the esteemed title.</desc>
     <date>2026-02-10</date>
   </programme>
 <programme channel="sonysab" start="20260210000000 +0530" stop="20260210003000 +0530">
