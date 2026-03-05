@@ -189,10 +189,95 @@
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2026-03-05</date>
   </programme>
-  <programme channel="disneychannel" start="20260305143000 +0530" stop="20260306000000 +0530">
+  <programme channel="disneychannel" start="20260305143000 +0530" stop="20260305173000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2026-03-05</date>
+  </programme>
+  <programme channel="disneychannel" start="20260305173000 +0530" stop="20260305200000 +0530">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="disneychannel" start="20260305200000 +0530" stop="20260305233000 +0530">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="disneychannel" start="20260305233000 +0530" stop="20260306000000 +0530">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306003000 +0530" stop="20260306013000 +0530">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306013000 +0530" stop="20260306120000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306120000 +0530" stop="20260306123000 +0530">
+    <title lang="zh">Munki and Trunk</title>
+    <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306123000 +0530" stop="20260306130000 +0530">
+    <title lang="zh">Munki and Trunk</title>
+    <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306130000 +0530" stop="20260306133000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306133000 +0530" stop="20260306143000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306143000 +0530" stop="20260307000000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-06</date>
+  </programme>
+<programme channel="disneychannel" start="20260306003000 +0530" stop="20260306013000 +0530">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306013000 +0530" stop="20260306120000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306120000 +0530" stop="20260306123000 +0530">
+    <title lang="zh">Munki and Trunk</title>
+    <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306123000 +0530" stop="20260306130000 +0530">
+    <title lang="zh">Munki and Trunk</title>
+    <desc>Munki and Trunk live together in a jungle, as they embark on various adventures, exploring the world and making new friends.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306130000 +0530" stop="20260306133000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306133000 +0530" stop="20260306143000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="disneychannel" start="20260306143000 +0530" stop="20260307000000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-06</date>
   </programme>
 <programme channel="sonyyay" start="20260305000900 +0530" stop="20260305003000 +0530">
     <title lang="zh">Honey Bunny Ka Jholmaal</title>
@@ -3849,10 +3934,340 @@
     <desc>Experts discuss the possible team and player strategies and predict the outcomes of the matches played during various cricket tournaments.</desc>
     <date>2026-03-05</date>
   </programme>
-  <programme channel="starsports2hd" start="20260305151500 +0530" stop="20260306000000 +0530">
+  <programme channel="starsports2hd" start="20260305151500 +0530" stop="20260305170000 +0530">
     <title lang="zh">Live - India vs. England; 2026 ICC Men's T20 Cricket World Cup</title>
     <desc>This is Sport - Cricket Category.</desc>
     <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305170000 +0530" stop="20260305173000 +0530">
+    <title lang="zh">Live - ICC Men's T20 World Cup 2026; Amul Cricket Post Show</title>
+    <desc>Cricket experts analyse team tactics, player strategies and match results following diverse tournaments in post-game discussions.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305173000 +0530" stop="20260305180000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305180000 +0530" stop="20260305183000 +0530">
+    <title lang="zh">2026: Semifinal 1: South Africa vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305183000 +0530" stop="20260305190000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305190000 +0530" stop="20260305193000 +0530">
+    <title lang="zh">2026: India vs Namibia; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305193000 +0530" stop="20260305200000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305200000 +0530" stop="20260305201500 +0530">
+    <title lang="zh">Punjab Kings vs Delhi Capitals, 66th Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of an IPL cricket match between Punjab Kings and Delhi Capitals, where both teams compete to emerge victorious.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305201500 +0530" stop="20260305203000 +0530">
+    <title lang="zh">Punjab Kings vs Mumbai Indians, 73rd Match; TATA IPL 2025 Highlights</title>
+    <desc>A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305203000 +0530" stop="20260305210000 +0530">
+    <title lang="zh">2026: India vs Pakistan; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305210000 +0530" stop="20260305213000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305213000 +0530" stop="20260305214500 +0530">
+    <title lang="zh">Sunrisers Hyderabad vs. Punjab Kings; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of Sunrisers Hyderabad and Punjab Kings competing against each other in the Indian Premier League to win the coveted trophy.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305214500 +0530" stop="20260305220000 +0530">
+    <title lang="zh">Lucknow Super Giants vs Sunrisers Hyderabad, 61st Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of Lucknow Super Giants facing Sunrisers Hyderabad on Match 61 of the 2025 IPL.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305220000 +0530" stop="20260305223000 +0530">
+    <title lang="zh">2026: India vs Netherlands; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305223000 +0530" stop="20260305230000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305230000 +0530" stop="20260305231500 +0530">
+    <title lang="zh">Punjab Kings vs Delhi Capitals, 66th Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of an IPL cricket match between Punjab Kings and Delhi Capitals, where both teams compete to emerge victorious.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305231500 +0530" stop="20260305233000 +0530">
+    <title lang="zh">Punjab Kings vs Mumbai Indians, 73rd Match; TATA IPL 2025 Highlights</title>
+    <desc>A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260305233000 +0530" stop="20260306000000 +0530">
+    <title lang="zh">2026: Group 1: India vs Zimbabwe; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-05</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306000000 +0530" stop="20260306003000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306003000 +0530" stop="20260306004500 +0530">
+    <title lang="zh">Sunrisers Hyderabad vs. Punjab Kings; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of Sunrisers Hyderabad and Punjab Kings competing against each other in the Indian Premier League to win the coveted trophy.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306004500 +0530" stop="20260306010000 +0530">
+    <title lang="zh">Lucknow Super Giants vs Sunrisers Hyderabad, 61st Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of Lucknow Super Giants facing Sunrisers Hyderabad on Match 61 of the 2025 IPL.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306010000 +0530" stop="20260306013000 +0530">
+    <title lang="zh">2026: Group 1: India vs West Indies; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306013000 +0530" stop="20260306020000 +0530">
+    <title lang="zh">2026: Semifinal 1: South Africa vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306020000 +0530" stop="20260306023000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306023000 +0530" stop="20260306024500 +0530">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306024500 +0530" stop="20260306030000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306030000 +0530" stop="20260306033000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306033000 +0530" stop="20260306040000 +0530">
+    <title lang="zh">2026: Semifinal 1: South Africa vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306040000 +0530" stop="20260306043000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306043000 +0530" stop="20260306044500 +0530">
+    <title lang="zh">Sunrisers Hyderabad vs Kolkata Knight Riders, 68th Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of an IPL cricket match between Sunrisers Hyderabad and Kolkata Knight Riders, where both teams compete to emerge victorious.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306044500 +0530" stop="20260306050000 +0530">
+    <title lang="zh">Delhi Capitals vs Lucknow Super Giants, 4th Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of professional cricket teams, Delhi Capitals and Lucknow Super Giants, are played as they go head to head on the field during the 4th match of the 2025 Indian Premier League.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306050000 +0530" stop="20260306053000 +0530">
+    <title lang="zh">Tata Ipl 2024: DC vs RR - 56th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306053000 +0530" stop="20260306054500 +0530">
+    <title lang="zh">2026: Group 1: India vs Zimbabwe; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306054500 +0530" stop="20260306060000 +0530">
+    <title lang="zh">2026: Group 1: India vs West Indies; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306060000 +0530" stop="20260306063000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306063000 +0530" stop="20260306070000 +0530">
+    <title lang="zh">2026: Semifinal 1: South Africa vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306070000 +0530" stop="20260306073000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306073000 +0530" stop="20260306074500 +0530">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306074500 +0530" stop="20260306080000 +0530">
+    <title lang="zh">2026: India vs United States; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306080000 +0530" stop="20260306081500 +0530">
+    <title lang="zh">To Be Announced</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306081500 +0530" stop="20260306083000 +0530">
+    <title lang="zh">To Be Announced</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306083000 +0530" stop="20260306084500 +0530">
+    <title lang="zh">Tata Ipl 2023: RCB vs CSK - 24th Match; Cricket Highlights</title>
+    <desc>Highlights of the professional cricket match played between the teams of Royal Challangers Bengaluru and Chennai Super Kings in the 2023 edition of Indian Premier League.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306084500 +0530" stop="20260306090000 +0530">
+    <title lang="zh">Tata Ipl 2023: MI vs PK - 31st Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306090000 +0530" stop="20260306091500 +0530">
+    <title lang="zh">Sunrisers Hyderabad vs Lucknow Super Giants, 7th Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of TATA IPL 2025, featuring the epic showdown between Sunrisers Hyderabad and Lucknow Super Giants, as both teams compete against each other.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306091500 +0530" stop="20260306093000 +0530">
+    <title lang="zh">Tata Ipl 2024: KKR vs PK - 42nd Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306093000 +0530" stop="20260306100000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306100000 +0530" stop="20260306101500 +0530">
+    <title lang="zh">To Be Announced</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306101500 +0530" stop="20260306103000 +0530">
+    <title lang="zh">To Be Announced</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306103000 +0530" stop="20260306104500 +0530">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306104500 +0530" stop="20260306110000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306110000 +0530" stop="20260306111500 +0530">
+    <title lang="zh">To Be Announced</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306111500 +0530" stop="20260306113000 +0530">
+    <title lang="zh">To Be Announced</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306113000 +0530" stop="20260306120000 +0530">
+    <title lang="zh">2026: Semifinal 1: South Africa vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306120000 +0530" stop="20260306123000 +0530">
+    <title lang="zh">2026: Group 1: India vs West Indies; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306123000 +0530" stop="20260306124500 +0530">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306124500 +0530" stop="20260306130000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306130000 +0530" stop="20260306133000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306133000 +0530" stop="20260306134500 +0530">
+    <title lang="zh">To Be Announced</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306134500 +0530" stop="20260306140000 +0530">
+    <title lang="zh">To Be Announced</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306140000 +0530" stop="20260306143000 +0530">
+    <title lang="zh">2026: Semifinal 1: South Africa vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306143000 +0530" stop="20260306144500 +0530">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306144500 +0530" stop="20260306151500 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306151500 +0530" stop="20260306153000 +0530">
+    <title lang="zh">To Be Announced</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306153000 +0530" stop="20260306160000 +0530">
+    <title lang="zh">ICC CT 2025</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306160000 +0530" stop="20260306163000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306163000 +0530" stop="20260306164500 +0530">
+    <title lang="zh">Follow The Blues</title>
+    <desc>The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
+    <date>2026-03-06</date>
+  </programme>
+  <programme channel="starsports2hd" start="20260306164500 +0530" stop="20260307000000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-06</date>
   </programme>
 <programme channel="starsports2hd" start="20260306000000 +0530" stop="20260306003000 +0530">
     <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
