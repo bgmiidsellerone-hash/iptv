@@ -39,10 +39,65 @@
     <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="hungama" start="20260311153000 +0530" stop="20260312000000 +0530">
+  <programme channel="hungama" start="20260311153000 +0530" stop="20260311173000 +0530">
     <title lang="zh">Pokemon</title>
     <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
     <date>2026-03-11</date>
+  </programme>
+  <programme channel="hungama" start="20260311173000 +0530" stop="20260311193000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="hungama" start="20260311193000 +0530" stop="20260312000000 +0530">
+    <title lang="zh">Atashinchi</title>
+    <desc>Mikan, Yuzuhiko and their parents navigate their daily lives while confronting various challenges. However, the Tachibana family is known for their clumsiness.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="hungama" start="20260312003000 +0530" stop="20260312013000 +0530">
+    <title lang="zh">Atashinchi</title>
+    <desc>Mikan, Yuzuhiko and their parents navigate their daily lives while confronting various challenges. However, the Tachibana family is known for their clumsiness.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="hungama" start="20260312013000 +0530" stop="20260312023000 +0530">
+    <title lang="zh">Selfie With Bajrangi</title>
+    <desc>Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="hungama" start="20260312023000 +0530" stop="20260312033000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="hungama" start="20260312033000 +0530" stop="20260312040000 +0530">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="hungama" start="20260312040000 +0530" stop="20260312043000 +0530">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="hungama" start="20260312043000 +0530" stop="20260312120000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="hungama" start="20260312120000 +0530" stop="20260312123000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="hungama" start="20260312123000 +0530" stop="20260312153000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="hungama" start="20260312153000 +0530" stop="20260313000000 +0530">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
+    <date>2026-03-12</date>
   </programme>
 <programme channel="disneychannel" start="20260311003000 +0530" stop="20260311013000 +0530">
     <title lang="zh">Perman</title>
@@ -74,480 +129,220 @@
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="disneychannel" start="20260311143000 +0530" stop="20260312000000 +0530">
+  <programme channel="disneychannel" start="20260311143000 +0530" stop="20260311173000 +0530">
     <title lang="zh">Doraemon</title>
     <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
     <date>2026-03-11</date>
   </programme>
-<programme channel="sonyyay" start="20260311000000 +0530" stop="20260311001000 +0530">
-    <title lang="zh">Honey Bunny Ka Jholmaal</title>
-    <desc>Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311001000 +0530" stop="20260311003000 +0530">
-    <title lang="zh">Honey Bunny Ka Jholmaal</title>
-    <desc>Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311003000 +0530" stop="20260311004300 +0530">
-    <title lang="zh">Honey Bunny Ka Jholmaal</title>
-    <desc>Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311004300 +0530" stop="20260311005400 +0530">
-    <title lang="zh">Honey Bunny Ka Jholmaal</title>
-    <desc>Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311005400 +0530" stop="20260311010500 +0530">
-    <title lang="zh">Honey Bunny Ka Jholmaal</title>
-    <desc>Miss Katkar encourages all four to stay fit and excercise strictly, Zordaar follows instructions but Honey Bunny do not.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311010500 +0530" stop="20260311011600 +0530">
-    <title lang="zh">Honey Bunny Ka Jholmaal</title>
-    <desc>Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311011600 +0530" stop="20260311012800 +0530">
-    <title lang="zh">Honey Bunny Ka Jholmaal</title>
-    <desc>Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311012800 +0530" stop="20260311014800 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311014800 +0530" stop="20260311015600 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311015600 +0530" stop="20260311020300 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311020300 +0530" stop="20260311021100 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311021100 +0530" stop="20260311021800 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311021800 +0530" stop="20260311022500 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Shin-chan annoys a pedestrian whilst Hiroshi and Misae are preparing for a journey. Afterwards, Shin-chan dreams of dessert in their car.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311022500 +0530" stop="20260311023200 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311023200 +0530" stop="20260311025300 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311025300 +0530" stop="20260311025900 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311025900 +0530" stop="20260311030600 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311030600 +0530" stop="20260311031100 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311031100 +0530" stop="20260311032000 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311032000 +0530" stop="20260311032800 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Shin-chan visits Keiko-san at the hospital with Misae and raises a nuisance for the nurse. Consequently, Misae scolds him for his mischief.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311032800 +0530" stop="20260311035100 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311035100 +0530" stop="20260311035900 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>In order to buy taiyaki for his mother Misae, Shin-chan visits a store. However, he proceeds to cause a nuisance and annoy the storekeeper.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311035900 +0530" stop="20260311040600 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>During a soccer match, Kawamura faces Shin-chan and his friends. However, he underestimates their skills and ends up losing to them.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311040600 +0530" stop="20260311041400 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>When Shin-chan demands that his mother blow balloons and play with him and does not give her any reprieve, Misae obliges.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311041400 +0530" stop="20260311042200 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>When Misae suffers from a backache, she visits a doctor for a diagnosis and Shin-chan accompanies her. However, Shin-chan annoys the doctor.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311042200 +0530" stop="20260311042700 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>After Shin-chan decides to help others, he is met by a man who seeks directions to Kazama's house. However, Shin-chan annoys him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311042700 +0530" stop="20260311043400 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311043400 +0530" stop="20260311044100 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311044100 +0530" stop="20260311045700 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311045700 +0530" stop="20260311050900 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311050900 +0530" stop="20260311051600 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311051600 +0530" stop="20260311052300 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311052300 +0530" stop="20260311053000 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311053000 +0530" stop="20260311053700 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311053700 +0530" stop="20260311054400 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311054400 +0530" stop="20260311055100 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311055100 +0530" stop="20260311055800 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311055800 +0530" stop="20260311060500 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311060500 +0530" stop="20260311061200 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311061200 +0530" stop="20260311061900 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311061900 +0530" stop="20260311062600 +0530">
-    <title lang="zh">Oggy and the Cockroaches: Next Generation</title>
-    <desc>When the seven-year-old daughter of his Indian elephant friends visits for a vacation, Oggy must learn to be a good surrogate while also dealing with the shenanigans of the cockroaches.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311062600 +0530" stop="20260311063400 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>When Shin-chan is not able to reach home before his curfew, his mother Misae is left annoyed. As a result, she punishes him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311063400 +0530" stop="20260311064200 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Shin-chan takes Shiro for a walk after playing with him. However, Shiro later eats the entirety of the meat Shin-chan's family had put aside for dinner.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311064200 +0530" stop="20260311070400 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Misae prepares a meal to eat but as she tries to do so, Shin-chan causes a nuisance by playing with the food and annoys her.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311070400 +0530" stop="20260311071100 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Matsuzaka is out on a date with her boyfriend when Shin-chan turns up and interrupts them. As a result, Matsuzaka takes him home.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311071100 +0530" stop="20260311071900 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Misae plans out a diet she can follow to lose weight. However, her cravings get the better of her and she ends up overeating.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311071900 +0530" stop="20260311072700 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>When Misae comes across her old school uniform, she puts it on. However, the principal of the kindergarten notices this and embarrasses her.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311072700 +0530" stop="20260311073500 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Shinnosuke Nohara, a five-year-old boy with a fascination for older women, commits frequent mischief around his friends and family.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311073500 +0530" stop="20260311074300 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Misae wishes to knit a new sweater for Hiroshi and takes one of his old ones apart. However, with the wool, she ends up knitting a sweater for Shiro.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311074300 +0530" stop="20260311075100 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Without apprising his mother Misae, Shin-chan sneaks off to the girls' school attended by the Saitama Crimson Scorpions. Consequently, Misae scolds him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311075100 +0530" stop="20260311075900 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Whilst preparing to take a bath, Misae instructs Shin-chan to check if the temperature of the water is suitable. However, Shin-chan finds it challenging to do so.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311075900 +0530" stop="20260311080600 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>After watching Misae cut a pair of pants short, Shin-chan impulsively ends up cutting all the clothes short when Misae steps out for a call.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311080600 +0530" stop="20260311083000 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Shinnosuke Nohara, a five-year-old boy with a fascination for older women, commits frequent mischief around his friends and family.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311083000 +0530" stop="20260311083800 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Misae coerces Shin-chan to do the dishes as punishment for hiding his lunch box in Shiro's house. However, Shin-chan messes up the kitchen.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311083800 +0530" stop="20260311084500 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>When Hiroshi returns from work, he brings home his coworker's old fax machine. However, Shin-chan faxes his drawings to Hiroshi and a letter to a news station.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311084500 +0530" stop="20260311085300 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Hiroshi and Misae take Shin-chan to visit the zoo but Shin-chan and Hiroshi are more keen on observing beautiful women instead of the zoo animals. Later, Shin-chan plays with a lemur.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311085300 +0530" stop="20260311090100 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Shin-chan shares an energy drink with Hiroshi after he decides to go to sleep early. Consequently, Hiroshi struggles with sleep.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311090100 +0530" stop="20260311090800 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>On a rainy day when Hiroshi is at home, Shin-chan pesters him into playing hide and seek with him. However, when Hiroshi searches for Shin-chan, he cannot find him.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311090800 +0530" stop="20260311093000 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Hiroshi plans to train Shin-chan to become a baseball player. However, on the day of training he forgets Shin-chan and takes Shiro with him instead.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311093000 +0530" stop="20260311093700 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>After Shin-chan and his family watch a movie starring Kizakora, Shin-chan wins an opportunity to meet her and spend time with her.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311093700 +0530" stop="20260311094400 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Misae and Shin-chan take a trip to Osaka and board the bullet train to travel. However, they come across the principal of the kindergarten on the way.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311094400 +0530" stop="20260311095100 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Misae and Hiroshi find fish eggs in the fridge and decide to eat them. However, despite enjoying their meal, they fall sick.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311095100 +0530" stop="20260311095800 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>Shin-chan, Misae and Hiroshi are joined by Shin-chan's grandparents to celebrate the New Year. Consequently, they eat their lunch and spend time together.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonyyay" start="20260311095800 +0530" stop="20260312000000 +0530">
-    <title lang="zh">Shin Chan</title>
-    <desc>When Shin-chan scribbles on a wall, he is caught in the act by a security guard. However, despite her attempts to keep him in her custody, he escapes.</desc>
-    <date>2026-03-11</date>
-  </programme>
-<programme channel="sonypal" start="20260311000000 +0530" stop="20260311003000 +0530">
-    <title lang="zh">Teleshopping</title>
-    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonypal" start="20260311003000 +0530" stop="20260311010000 +0530">
-    <title lang="zh">Teleshopping</title>
-    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonypal" start="20260311010000 +0530" stop="20260311013000 +0530">
-    <title lang="zh">Teleshopping</title>
-    <desc>Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonypal" start="20260311013000 +0530" stop="20260311021700 +0530">
-    <title lang="zh">The Kapil Sharma Show</title>
-    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonypal" start="20260311021700 +0530" stop="20260311033100 +0530">
-    <title lang="zh">The Kapil Sharma Show</title>
-    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonypal" start="20260311033100 +0530" stop="20260311035600 +0530">
+  <programme channel="disneychannel" start="20260311173000 +0530" stop="20260311200000 +0530">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="disneychannel" start="20260311200000 +0530" stop="20260311233000 +0530">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="disneychannel" start="20260311233000 +0530" stop="20260312000000 +0530">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="disneychannel" start="20260312003000 +0530" stop="20260312013000 +0530">
+    <title lang="zh">Perman</title>
+    <desc>Mitsuo Suwa, a clumsy boy, works as an apprentice for Birdman to become a powerful superhero, Perman, and rescues the victims of crime and disasters.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="disneychannel" start="20260312013000 +0530" stop="20260312120000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="disneychannel" start="20260312120000 +0530" stop="20260312123000 +0530">
+    <title lang="zh">Taffy</title>
+    <desc>Mrs Muchmore ends up adopting a raccoon named Taffy after mistaking it for a cat. But while Taffy enjoys his life with Mrs Muchmore, her Doberman, Bentley, is determined to expose Taffy as a fraud.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="disneychannel" start="20260312123000 +0530" stop="20260312130000 +0530">
+    <title lang="zh">Taffy</title>
+    <desc>Mrs Muchmore ends up adopting a raccoon named Taffy after mistaking it for a cat. But while Taffy enjoys his life with Mrs Muchmore, her Doberman, Bentley, is determined to expose Taffy as a fraud.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="disneychannel" start="20260312130000 +0530" stop="20260312133000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="disneychannel" start="20260312133000 +0530" stop="20260312143000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="disneychannel" start="20260312143000 +0530" stop="20260313000000 +0530">
+    <title lang="zh">Doraemon</title>
+    <desc>Doraemon, a robot cat from the future, travels back in time to take care of a young boy named Nobita Nobi with the help of his futuristic gadgets.</desc>
+    <date>2026-03-12</date>
+  </programme>
+<programme channel="sonypal" start="20260312001800 +0530" stop="20260312003700 +0530">
+    <title lang="zh">Baal Veer</title>
+    <desc>As the children call out to Baalveer, Mahabhasm Pari finds out that Ballu is Baalveer. Further, Baalveer fights with the demon and rescues the children.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonypal" start="20260312003700 +0530" stop="20260312005700 +0530">
+    <title lang="zh">Baal Veer</title>
+    <desc>When Meher tells Tauba Tauba that Baalveer will rescue her, he bursts into laughter. Further, Mahabhasm Pari tricks Baalveer into revealing his identity.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonypal" start="20260312005700 +0530" stop="20260312011700 +0530">
+    <title lang="zh">Baal Veer</title>
+    <desc>When Mahabhasm Pari reveals that Ballu is Baalveer, Meher is surprised. Further, Meher calls out to Baalveer as she struggles to quench her thirst.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonypal" start="20260312011700 +0530" stop="20260312014100 +0530">
+    <title lang="zh">Baal Veer</title>
+    <desc>Mahabhasm Pari successfully tricks Baalveer into taking her to Pari Lok. Further, she urges Baalveer to fulfil her wish without telling Rani Pari.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonypal" start="20260312014100 +0530" stop="20260312020600 +0530">
+    <title lang="zh">Baal Veer</title>
+    <desc>Taken aback by Meher's disrespectful behaviour, her mother slaps her. Further, Mahabhasm Pari uses Baalveer to get to her destination.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonypal" start="20260312020600 +0530" stop="20260312022600 +0530">
+    <title lang="zh">Baal Veer</title>
+    <desc>Baalveer tells Rani Pari about how Mahabhasm Pari fooled him to gain access to the golden lock. Further, when Mahabhasm Pari prepares to set the demons free, the fairies and Baalveer stop her.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonypal" start="20260312022600 +0530" stop="20260312025200 +0530">
+    <title lang="zh">Baal Veer</title>
+    <desc>Baalveer tells Mahabhasm Pari how she fell right into his trap. Further, Baalveer and fairies fight Mahabhasm Pari in order to rescue Meher.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonypal" start="20260312025200 +0530" stop="20260312031900 +0530">
+    <title lang="zh">Baal Veer</title>
+    <desc>Baalveer gets back on his feet and defeats the ferocious monster. Further, when Rani Pari tries to seal the gates of Danav Lok, Mahabhasm Pari attacks her.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonypal" start="20260312031900 +0530" stop="20260312034600 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>The colony members become worried when Goli and Sakharam disappear. They share their concerns about their whereabouts with Inspector Pandey.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311035600 +0530" stop="20260311042500 +0530">
+  <programme channel="sonypal" start="20260312034600 +0530" stop="20260312041300 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>On the joyous occasion of Goli and Sakharam's return, Dr Hathi hosts a scrumptious breakfast event for all the members of the society.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311042500 +0530" stop="20260311045300 +0530">
+  <programme channel="sonypal" start="20260312041300 +0530" stop="20260312043700 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>The situation becomes very chaotic as the frustrated plumber loses his temper and threatens to break open Bhide's lock. However, Abdul suggests an alternate idea.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311045300 +0530" stop="20260311051900 +0530">
+  <programme channel="sonypal" start="20260312043700 +0530" stop="20260312045900 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Bholaram is upset that he had to spend the entire day searching for the keys. Meanwhile his wife Sushma arrives at Gokuldham colony and the colony members try to make it up to him.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311051900 +0530" stop="20260311053400 +0530">
+  <programme channel="sonypal" start="20260312045900 +0530" stop="20260312052600 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Tapu and his friends tell the men of Gokuldham Society about Madhavi's scam. Later, Jethalal and Iyer come up with an intriguing plan.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311053400 +0530" stop="20260311055900 +0530">
+  <programme channel="sonypal" start="20260312052600 +0530" stop="20260312055400 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Bhide finds that everyone has a secret meeting without him, and Goli gives Bhide a deceptive explanation. Madhavi becomes worried when the Mahila Mandal expresses a desire to see Sonu's gold chain.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311055900 +0530" stop="20260311062500 +0530">
+  <programme channel="sonypal" start="20260312055400 +0530" stop="20260312062000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Jethalal tells Bhide to gift Madhavi something special. Meanwhile, Champaklal senses an intriguing secret.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311062500 +0530" stop="20260311065000 +0530">
+  <programme channel="sonypal" start="20260312062000 +0530" stop="20260312064800 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Jethalal and Iyer disguise themselves as a police inspector and sergeant. Jethalal receives praise for his look but Iyer taunts him that the inspector is generally fit.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311065000 +0530" stop="20260311071800 +0530">
+  <programme channel="sonypal" start="20260312064800 +0530" stop="20260312071600 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>The customers at Gada Electronics believe that Jethalal and Iyer are policemen. Soon, the shoopkeeper decides to give them the evidence.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311071800 +0530" stop="20260311074600 +0530">
+  <programme channel="sonypal" start="20260312071600 +0530" stop="20260312073500 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Inspector Chalu Pandey grows suspicious after finding that two police come to take the CCTV footage. Jethalal and Iyer share the CCTV footage with everyone.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311074600 +0530" stop="20260311081400 +0530">
+  <programme channel="sonypal" start="20260312073500 +0530" stop="20260312080400 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Gokuldham members hatch a plan to trace the scammer through the tattoo design. They decide to seek the help of the artist who created it.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311081400 +0530" stop="20260311083400 +0530">
+  <programme channel="sonypal" start="20260312080400 +0530" stop="20260312082900 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>The tattoo artist tricks the scammer into getting him to the studio.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311083400 +0530" stop="20260311090300 +0530">
+  <programme channel="sonypal" start="20260312082900 +0530" stop="20260312085800 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Members of Gokuldham take Babban to Madhavi for identification. Later, everyone is shocked when Inspector Pandey arrives at the society.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311090300 +0530" stop="20260311093200 +0530">
+  <programme channel="sonypal" start="20260312085800 +0530" stop="20260312092400 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Inspector Pandey is enraged to find Iyer and Jethalal in police uniform. He proposes to arrest them with scammer but Gokuldham members unanimously apologise.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311093200 +0530" stop="20260311103200 +0530">
+  <programme channel="sonypal" start="20260312092400 +0530" stop="20260312102700 +0530">
     <title lang="zh">CID</title>
-    <desc>The killer comes to Sushilwadi and sells off some jewellery. The shopkeeper reveals that he comes there every month to sell jewellery and reveals about his wound that lead.</desc>
-    <date>2026-03-11</date>
+    <desc>A serial killer breaks free and chaos ensues everywhere. Soon, the CID team takes up the case and strives to catch the killer.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311103200 +0530" stop="20260311113100 +0530">
+  <programme channel="sonypal" start="20260312102700 +0530" stop="20260312112800 +0530">
     <title lang="zh">CID</title>
-    <desc>The killer comes to Sushilwadi and sells off some jewellery. The shopkeeper reveals that he comes there every month to sell jewellery and reveals about his wound that lead.</desc>
-    <date>2026-03-11</date>
+    <desc>The iconic characters who were once close friends have now become bitter rivals, now 6 years later their world collide in the most unexpected &amp; dramatic circumstances.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311113100 +0530" stop="20260311115900 +0530">
+  <programme channel="sonypal" start="20260312112800 +0530" stop="20260312115400 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Things go exactly according to Jethalal's plan when the women's association invites Khare for a felicitation.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311115900 +0530" stop="20260311122900 +0530">
+  <programme channel="sonypal" start="20260312115400 +0530" stop="20260312121900 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Jethalal feels cheated when MK College's trustee Khare doesn't give admission to Tapu even after taking seven lakhs from him. Eventually, he decides to use non-violent methods to teach Khare a lesson.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311122900 +0530" stop="20260311125600 +0530">
+  <programme channel="sonypal" start="20260312121900 +0530" stop="20260312123500 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Jethalal feels cheated when MK College's trustee Khare doesn't give admission to Tapu even after taking seven lakhs from him. Eventually, he decides to use non-violent methods to teach Khare a lesson.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311125600 +0530" stop="20260311132400 +0530">
+  <programme channel="sonypal" start="20260312123500 +0530" stop="20260312125700 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>When Jethalal and Taarak walk to the stage, Khare feels nervous. Later, he is surprised when they do not reveal his deeds in front of everyone.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311132400 +0530" stop="20260311134900 +0530">
+  <programme channel="sonypal" start="20260312125700 +0530" stop="20260312132700 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Jethalal feels cheated when MK College's trustee Khare doesn't give admission to Tapu even after taking seven lakhs from him. Later, he decides to use non-violent methods to teach Khare a lesson.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311134900 +0530" stop="20260311141400 +0530">
+  <programme channel="sonypal" start="20260312132700 +0530" stop="20260312135300 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Sundarlal has come to Gokuldham society and this makes Jethalal wonder about what new trouble is he in.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311141400 +0530" stop="20260311143300 +0530">
+  <programme channel="sonypal" start="20260312135300 +0530" stop="20260312141800 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
+    <desc>Sundarlal surprises everyone when he arrives at Gokuldham society. However, Jethalal feels nervous about his visit.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonypal" start="20260311143300 +0530" stop="20260311145800 +0530">
-    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>After Champaklal storms out of the house, his family blames Bhide for it. Fortunately, Champaklal soon returns home safely.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="sonypal" start="20260311145800 +0530" stop="20260312000000 +0530">
-    <title lang="zh">The Kapil Sharma Show</title>
-    <desc>Kapil Sharma gets up close and personal with the cast of Rustom. Later, his team joins in for some fun antics with the guests.</desc>
-    <date>2026-03-11</date>
+  <programme channel="sonypal" start="20260312141800 +0530" stop="20260313000000 +0530">
+    <title lang="zh">Kaun Banega Crorepati</title>
+    <desc>Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
+    <date>2026-03-12</date>
   </programme>
 <programme channel="sonysab" start="20260311000000 +0530" stop="20260311003000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
@@ -704,170 +499,410 @@
     <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="sonysab" start="20260311153000 +0530" stop="20260312000000 +0530">
+  <programme channel="sonysab" start="20260311153000 +0530" stop="20260311160000 +0530">
     <title lang="zh">Itti Si Khushi</title>
     <desc>Anvita shoulders the burden of raising her five siblings amidst their father's alcoholism.</desc>
     <date>2026-03-11</date>
   </programme>
-<programme channel="sonysabhd" start="20260311000000 +0530" stop="20260311003000 +0530">
+  <programme channel="sonysab" start="20260311160000 +0530" stop="20260311163000 +0530">
+    <title lang="zh">Pushpa Impossible</title>
+    <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311163000 +0530" stop="20260311170000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>When Bhide mentions needing help discussing Bapuji, everyone worries something might have happened to him.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311170000 +0530" stop="20260311173000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Bhide cannot sleep due to his concerns about Bapuji, but Madhavi tries to calm him by saying that Bagha is with him.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311173000 +0530" stop="20260311180000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311003000 +0530" stop="20260311010000 +0530">
-    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
-    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+  <programme channel="sonysab" start="20260311180000 +0530" stop="20260311183000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Nattu Kaka leaves Bagha, his nephew, to work for Jethalal at the shop. Later, Bagha is assigned to collect payment from Lachhuram.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311010000 +0530" stop="20260311013000 +0530">
+  <programme channel="sonysab" start="20260311183000 +0530" stop="20260311190000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal makes several calls in order to sell his paint boxes but all of his attempts fail. Later, he consults Bhide.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311190000 +0530" stop="20260311193000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal worries about not being able to sell the paint boxes, and Daya steps in and sends him a potential client.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311193000 +0530" stop="20260311200000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal plans to convince everyone to paint Gokuldham Society so he can sell the paint boxes to them, and Taarak decides to help him.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311200000 +0530" stop="20260311203000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Bhide tells Tapu Sena there will be no money left to throw a New Year's party as all the money will be spent on painting the building.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311203000 +0530" stop="20260311210000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>After getting the green light for the New Year's party, Jethalal secretly tells the other men to meet up without their wives knowing.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311210000 +0530" stop="20260311213000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The men are caught in the act as they try to throw their own party, and Champaklal teaches them a lesson.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311213000 +0530" stop="20260311220000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Bhide negotiates with Sakharam as they work on the contract for the building's paint job; Daya and Jethalal are glad a deal is made.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311220000 +0530" stop="20260311223000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The renovation at Gokuldham society finally starts. However, chaos ensues when the society realises they spend all the fund halfway through renovation.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311223000 +0530" stop="20260311230000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Sukharam is furious about the paint job contract and ends up ruining the job completely. Later, the residents have to come up with a solution.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311230000 +0530" stop="20260311233000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Everyone holds Jethalal responsible for the work Sukharam ruins; Champaklal proposes an idea after they fail to find a new contractor.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260311233000 +0530" stop="20260312000000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Everyone comes together to fix the paint job gone wrong, and the finished work stuns them; Sukharam apologises to the residents.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sonysab" start="20260312000000 +0530" stop="20260312003000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents agree to do Satyanarayan Puja ritual to celebrate the finished paint job; Nattu Kaka returns to Gokuldham.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312003000 +0530" stop="20260312010000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Champaklal has secretly been planning a secret party in the evening, but everyone seems to have found out somehow, and they all await his party.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312010000 +0530" stop="20260312013000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents realise Champaklal's party is a Bhajan Party to thank God for his blessings and for making the paint job successful.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312013000 +0530" stop="20260312020000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The members of Gokuldham Society celebrate their mission's success with great enthusiasm. The men gather to toast their accomplishments.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312020000 +0530" stop="20260312023000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The men of Gokuldham Society plan a resort trip and decide to enjoy some alcohol to celebrate their success.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312023000 +0530" stop="20260312030000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal is disappointed when he meets Nattu Kaka instead of Babita. Popatlal takes charge of planning a spectacular welcome for the group at the resort.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312030000 +0530" stop="20260312033000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Champaklal's impatience leads him to wake Jethalal from his restful sleep at the resort, frustrating Jethalal.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312033000 +0530" stop="20260312040000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal finds himself in the midst of another crisis at Gokuldham.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312040000 +0530" stop="20260312043000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal finds himself in the midst of another crisis at Gokuldham.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312043000 +0530" stop="20260312050000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Jethalal finds himself in the midst of another crisis at Gokuldham.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312050000 +0530" stop="20260312053000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Taarak assists Popatlal in placing an advertisement. Popatlal has the opportunity to meet an attractive woman.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312053000 +0530" stop="20260312060000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Popatlal feels happy to meet with Sweety, who might become his wife. Popatlal endeavours to impress her during their encounter.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312060000 +0530" stop="20260312063000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Daya calls Jethalal when he is at work to inform him about Popatlal, who goes to a hotel for searching a lady and later falls into trouble.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312063000 +0530" stop="20260312070000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Dr Hathi and his family decide to go for lunch at the new restaurant. However, their family time is interrupted when a tree falls on Dr Hathi.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312070000 +0530" stop="20260312073000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>When Dr Hathi gets stuck beneath a tree, his brothers and the society members rush to the restaurant and try to help him.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312073000 +0530" stop="20260312080000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>While waiting for the fire brigade, Dr Hathi's brothers try to lift the tree.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312080000 +0530" stop="20260312083000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>After everyone tries their best but fails, Babita comes up with a brilliant solution and shares it with the members.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312083000 +0530" stop="20260312090000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>After Babita's plan to help Dr Hathi fails, Natu Kaka and Bagha bring an axe to chop the tree, but the ladies of a campaign warn everyone not to do such things.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312090000 +0530" stop="20260312093000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Everyone is thankful when a few military men arrive and help Dr Hathi from the tree, but Dr Hathi cannot get up due to his back pain.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312093000 +0530" stop="20260312100000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>All members of the society are shocked when the police arrest Popatlal for cutting down the tree after the campaign ladies file the case against him, and Popatlal tries to defend himself.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312100000 +0530" stop="20260312103000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The people of Gokuldham Society are shocked when the police take Popatlal away for cutting down a tree.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312103000 +0530" stop="20260312110000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Gokuldham Society's members successfully prove Popatlal's innocence. The police arrest the restaurant manager.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312110000 +0530" stop="20260312113000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Iyer tells his neighbours how Daya has saved Jethalal's reputation with Ratnavali. However, Jethalal confesses to Iyer that he has feelings for another woman.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312113000 +0530" stop="20260312120000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>As Sodhi and his friends see a few police cars parked outside a restaurant, they plan to take Sheri's car back to Gokuldham.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312120000 +0530" stop="20260312123000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Sodhi and his neighbours successfully steal a police car, but now people cannot get in contact with them. Soon, Babita and the wives start to worry.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312123000 +0530" stop="20260312130000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Inspector Chalu Pandey believes that a gang of thieves have stolen the police cars. Later, some policemen on a highway stop Sodhi's car.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312130000 +0530" stop="20260312133000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The police arrest Sodhi and his friends. Meanwhile, Daya and her neighbours ask Inspector Chalu Pandey to find their husbands.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312133000 +0530" stop="20260312140000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>Daya and her friends find their husbands at the police station. Meanwhile, the police interrogate Sodhi about the crime.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312140000 +0530" stop="20260312143000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>After getting released, Sodhi helps the police identify two car thieves. Jethalal and his friends enjoy their freedom.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312143000 +0530" stop="20260312150000 +0530">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>The untold story of the divine brothers of the Shiv Parivaar: Lord Ganesh and Lord Kartikeya. They are a family bound by devotion, challenged by destiny and united by eternal love.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312150000 +0530" stop="20260312153000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysab" start="20260312153000 +0530" stop="20260313000000 +0530">
+    <title lang="zh">Itti Si Khushi</title>
+    <desc>Anvita shoulders the burden of raising her five siblings amidst their father's alcoholism.</desc>
+    <date>2026-03-12</date>
+  </programme>
+<programme channel="sonysabhd" start="20260312000000 +0530" stop="20260312003000 +0530">
+    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysabhd" start="20260312003000 +0530" stop="20260312010000 +0530">
+    <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
+    <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonysabhd" start="20260312010000 +0530" stop="20260312013000 +0530">
     <title lang="zh">Itti Si Khushi</title>
     <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311013000 +0530" stop="20260311020000 +0530">
+  <programme channel="sonysabhd" start="20260312013000 +0530" stop="20260312020000 +0530">
     <title lang="zh">Pushpa Impossible</title>
     <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311020000 +0530" stop="20260311023000 +0530">
+  <programme channel="sonysabhd" start="20260312020000 +0530" stop="20260312023000 +0530">
     <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
     <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311023000 +0530" stop="20260311030000 +0530">
+  <programme channel="sonysabhd" start="20260312023000 +0530" stop="20260312030000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311030000 +0530" stop="20260311033000 +0530">
+  <programme channel="sonysabhd" start="20260312030000 +0530" stop="20260312033000 +0530">
     <title lang="zh">Maddam Sir</title>
-    <desc>Haseena is frustrated with her mother for sending her pictures of potential grooms. However, her attitude changes when she sees a picture of DSP Anubhav Singh.</desc>
-    <date>2026-03-11</date>
+    <desc>Karishma knocks Kabir out of his senses to stop him from stalking Piya. On regaining his senses, Kabir finds himself in unfamiliar territory.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311033000 +0530" stop="20260311040000 +0530">
+  <programme channel="sonysabhd" start="20260312033000 +0530" stop="20260312040000 +0530">
     <title lang="zh">Maddam Sir</title>
-    <desc>Haseena finds herself in a spot when Dutta Ji calls and threatens her. However, she is unaware that DSP Anubhav has tapped her phone and plans to confront Dutta Ji.</desc>
-    <date>2026-03-11</date>
+    <desc>Everyone is stunned when Karishma brings a baby to the police station. Furthermore, Karishma is determined that they can take care of the child together.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311040000 +0530" stop="20260311043000 +0530">
+  <programme channel="sonysabhd" start="20260312040000 +0530" stop="20260312043000 +0530">
     <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
     <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311043000 +0530" stop="20260311050000 +0530">
+  <programme channel="sonysabhd" start="20260312043000 +0530" stop="20260312050000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311050000 +0530" stop="20260311053000 +0530">
+  <programme channel="sonysabhd" start="20260312050000 +0530" stop="20260312053000 +0530">
     <title lang="zh">Pushpa Impossible</title>
     <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311053000 +0530" stop="20260311060000 +0530">
+  <programme channel="sonysabhd" start="20260312053000 +0530" stop="20260312060000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>Taarak Mehta is about to go have soda when Anjali tells him that she has a problem. Her mobile isn't working.</desc>
-    <date>2026-03-11</date>
+    <desc>Bhide catches Tappu Sena outside the campus and presumes that they have missed their classes deliberately. After an explanation from Tappu, Bhide is convinced and decides to help them find Pinku.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311060000 +0530" stop="20260311063000 +0530">
+  <programme channel="sonysabhd" start="20260312060000 +0530" stop="20260312063000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>Jethalal has brought a special mixture and asks Abdul to prepare a drink from it. The Gokuldham society members.</desc>
-    <date>2026-03-11</date>
+    <desc>Tapu Sena are upset after their plan to find Pinku results in failure.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311063000 +0530" stop="20260311070000 +0530">
+  <programme channel="sonysabhd" start="20260312063000 +0530" stop="20260312070000 +0530">
     <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
     <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311070000 +0530" stop="20260311073000 +0530">
+  <programme channel="sonysabhd" start="20260312070000 +0530" stop="20260312073000 +0530">
     <title lang="zh">Maddam Sir</title>
-    <desc>Haseena is frustrated with her mother for sending her pictures of potential grooms. However, her attitude changes when she sees a picture of DSP Anubhav Singh.</desc>
-    <date>2026-03-11</date>
+    <desc>Karishma knocks Kabir out of his senses to stop him from stalking Piya. On regaining his senses, Kabir finds himself in unfamiliar territory.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311073000 +0530" stop="20260311080000 +0530">
+  <programme channel="sonysabhd" start="20260312073000 +0530" stop="20260312080000 +0530">
     <title lang="zh">Maddam Sir</title>
-    <desc>Haseena finds herself in a spot when Dutta Ji calls and threatens her. However, she is unaware that DSP Anubhav has tapped her phone and plans to confront Dutta Ji.</desc>
-    <date>2026-03-11</date>
+    <desc>Everyone is stunned when Karishma brings a baby to the police station. Furthermore, Karishma is determined that they can take care of the child together.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311080000 +0530" stop="20260311083000 +0530">
+  <programme channel="sonysabhd" start="20260312080000 +0530" stop="20260312083000 +0530">
     <title lang="zh">Pushpa Impossible</title>
     <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311083000 +0530" stop="20260311090000 +0530">
+  <programme channel="sonysabhd" start="20260312083000 +0530" stop="20260312090000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311090000 +0530" stop="20260311093000 +0530">
+  <programme channel="sonysabhd" start="20260312090000 +0530" stop="20260312093000 +0530">
     <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
     <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311093000 +0530" stop="20260311100000 +0530">
+  <programme channel="sonysabhd" start="20260312093000 +0530" stop="20260312100000 +0530">
     <title lang="zh">Itti Si Khushi</title>
     <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311100000 +0530" stop="20260311103000 +0530">
+  <programme channel="sonysabhd" start="20260312100000 +0530" stop="20260312103000 +0530">
     <title lang="zh">Pushpa Impossible</title>
     <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311103000 +0530" stop="20260311110000 +0530">
+  <programme channel="sonysabhd" start="20260312103000 +0530" stop="20260312110000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311110000 +0530" stop="20260311113000 +0530">
+  <programme channel="sonysabhd" start="20260312110000 +0530" stop="20260312113000 +0530">
     <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
     <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311113000 +0530" stop="20260311120000 +0530">
+  <programme channel="sonysabhd" start="20260312113000 +0530" stop="20260312120000 +0530">
     <title lang="zh">Itti Si Khushi</title>
     <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311120000 +0530" stop="20260311123000 +0530">
+  <programme channel="sonysabhd" start="20260312120000 +0530" stop="20260312123000 +0530">
     <title lang="zh">Pushpa Impossible</title>
     <desc>After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311123000 +0530" stop="20260311130000 +0530">
+  <programme channel="sonysabhd" start="20260312123000 +0530" stop="20260312130000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>Taarak Mehta is about to go have soda when Anjali tells him that she has a problem. Her mobile isn't working.</desc>
-    <date>2026-03-11</date>
+    <desc>Bhide catches Tappu Sena outside the campus and presumes that they have missed their classes deliberately. After an explanation from Tappu, Bhide is convinced and decides to help them find Pinku.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311130000 +0530" stop="20260311133000 +0530">
+  <programme channel="sonysabhd" start="20260312130000 +0530" stop="20260312133000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>Jethalal has brought a special mixture and asks Abdul to prepare a drink from it. The Gokuldham society members.</desc>
-    <date>2026-03-11</date>
+    <desc>Tapu Sena are upset after their plan to find Pinku results in failure.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311133000 +0530" stop="20260311140000 +0530">
+  <programme channel="sonysabhd" start="20260312133000 +0530" stop="20260312140000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>Pinku joins Tapu Sena in a memory-sharing session about their parents. However, he soon feels a bit embarrassed.</desc>
-    <date>2026-03-11</date>
+    <desc>Tappu helps Champaklal prepare a sumptuous meal for Jethalal. While they are having dinner, Babita joins them.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311140000 +0530" stop="20260311143000 +0530">
+  <programme channel="sonysabhd" start="20260312140000 +0530" stop="20260312143000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>Tapu Sena sends a message to their parents and receives a warm reply. Pinku gets uncomfortable and leaves abruptly.</desc>
-    <date>2026-03-11</date>
+    <desc>The Gokuldham Society members decide to go to Pinku's place but do not find him as he escapes right before they arrive.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311143000 +0530" stop="20260311150000 +0530">
+  <programme channel="sonysabhd" start="20260312143000 +0530" stop="20260312150000 +0530">
     <title lang="zh">Gatha Shiv Parivaar Ki Ganesh Kartikey</title>
     <desc>Amidst divine challenges, Lord Shiva and Parvati, along with their sons Ganesha and Kartikeya, explore the dynamics of love, sacrifice, and family bonds.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311150000 +0530" stop="20260311153000 +0530">
+  <programme channel="sonysabhd" start="20260312150000 +0530" stop="20260312153000 +0530">
     <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc>The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonysabhd" start="20260311153000 +0530" stop="20260312000000 +0530">
+  <programme channel="sonysabhd" start="20260312153000 +0530" stop="20260313000000 +0530">
     <title lang="zh">Itti Si Khushi</title>
     <desc>Anvita shoulders the responsibility of caring for her five younger siblings. As she navigates her family duties, she also strives to balancer her emotional turmoils.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
 <programme channel="sethd" start="20260311003000 +0530" stop="20260311005000 +0530">
     <title lang="zh">Best of Crime Patrol</title>
@@ -959,10 +994,250 @@
     <desc>Aspiring chefs and food lovers from various parts of India showcase their culinary skills in front of prominent judges to win the title and grand prize money.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="sethd" start="20260311153000 +0530" stop="20260312000000 +0530">
+  <programme channel="sethd" start="20260311153000 +0530" stop="20260311163000 +0530">
     <title lang="zh">Wheel Of Fortune</title>
     <desc>Contestants put their minds to solving word puzzles after spinning a giant wheel that determines the monetary value they are playing for.</desc>
     <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260311163000 +0530" stop="20260311173000 +0530">
+    <title lang="zh">Shark Tank India</title>
+    <desc>Aspiring entrepreneurs from India pitch their business models to a panel of investors and persuade them to invest money in their idea.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260311173000 +0530" stop="20260311183000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260311183000 +0530" stop="20260311191000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260311191000 +0530" stop="20260311195000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260311195000 +0530" stop="20260311203000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases investigated in 'Crime Patrol' showcase people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260311203000 +0530" stop="20260311211000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260311211000 +0530" stop="20260311215000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260311215000 +0530" stop="20260311223000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260311223000 +0530" stop="20260311231000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260311231000 +0530" stop="20260312000000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="sethd" start="20260312003000 +0530" stop="20260312005000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312005000 +0530" stop="20260312013000 +0530">
+    <title lang="zh">Best of Crime Patrol - Crime Patrol Dial 100</title>
+    <desc>A compilation of some of the most spine-chilling cases from 'Crime Patrol Dial 100', which investigates murders, kidnappings and thefts among other heinous crimes.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312013000 +0530" stop="20260312024000 +0530">
+    <title lang="zh">Best of the Kapil Sharma Show</title>
+    <desc>A compilation of the best moments from 'The Kapil Sharma Show' celebrates top highlights, playful roasts and the vibrant energy that defines its comedy.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312024000 +0530" stop="20260312033000 +0530">
+    <title lang="zh">Master Chef India</title>
+    <desc>Aspiring chefs and food lovers from various parts of India showcase their culinary skills in front of prominent judges to win the title and grand prize money.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312033000 +0530" stop="20260312042000 +0530">
+    <title lang="zh">Wheel Of Fortune</title>
+    <desc>Contestants put their minds to solving word puzzles after spinning a giant wheel that determines the monetary value they are playing for.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312042000 +0530" stop="20260312054000 +0530">
+    <title lang="zh">Best of the Kapil Sharma Show</title>
+    <desc>A compilation of the best moments from 'The Kapil Sharma Show' celebrates top highlights, playful roasts and the vibrant energy that defines its comedy.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312054000 +0530" stop="20260312070000 +0530">
+    <title lang="zh">Indian Idol</title>
+    <desc>The contestants and judges, along with Anandji Virji Shah and Manoj Muntashir, pay tribute to the legendary and generous late Lata Mangeshkar.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312070000 +0530" stop="20260312074000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312074000 +0530" stop="20260312083000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312083000 +0530" stop="20260312092000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312092000 +0530" stop="20260312101000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>The host presents some of the best cases from Crime Patrol, which investigates how an ordinary, innocent individual can commit some heinous crimes due to the influence of society.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312101000 +0530" stop="20260312110000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312110000 +0530" stop="20260312115000 +0530">
+    <title lang="zh">Best of Crime Patrol - Crime Patrol Satark</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312115000 +0530" stop="20260312124000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312124000 +0530" stop="20260312133000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312133000 +0530" stop="20260312140000 +0530">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Sai imparts a valuable lesson to a boy about respecting his elders.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312140000 +0530" stop="20260312143000 +0530">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>A humble spiritual figure transforms lives in a small village by spreading compassion, unity and wisdom while confronting social divisions and injustice with calm resolve.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312143000 +0530" stop="20260312153000 +0530">
+    <title lang="zh">Master Chef India</title>
+    <desc>Aspiring chefs and food lovers from various parts of India showcase their culinary skills in front of prominent judges to win the title and grand prize money.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312153000 +0530" stop="20260313000000 +0530">
+    <title lang="zh">Wheel Of Fortune</title>
+    <desc>Contestants put their minds to solving word puzzles after spinning a giant wheel that determines the monetary value they are playing for.</desc>
+    <date>2026-03-12</date>
+  </programme>
+<programme channel="sethd" start="20260312003000 +0530" stop="20260312005000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312005000 +0530" stop="20260312013000 +0530">
+    <title lang="zh">Best of Crime Patrol - Crime Patrol Dial 100</title>
+    <desc>A compilation of some of the most spine-chilling cases from 'Crime Patrol Dial 100', which investigates murders, kidnappings and thefts among other heinous crimes.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312013000 +0530" stop="20260312024000 +0530">
+    <title lang="zh">Best of the Kapil Sharma Show</title>
+    <desc>A compilation of the best moments from 'The Kapil Sharma Show' celebrates top highlights, playful roasts and the vibrant energy that defines its comedy.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312024000 +0530" stop="20260312033000 +0530">
+    <title lang="zh">Master Chef India</title>
+    <desc>Aspiring chefs and food lovers from various parts of India showcase their culinary skills in front of prominent judges to win the title and grand prize money.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312033000 +0530" stop="20260312042000 +0530">
+    <title lang="zh">Wheel Of Fortune</title>
+    <desc>Contestants put their minds to solving word puzzles after spinning a giant wheel that determines the monetary value they are playing for.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312042000 +0530" stop="20260312054000 +0530">
+    <title lang="zh">Best of the Kapil Sharma Show</title>
+    <desc>A compilation of the best moments from 'The Kapil Sharma Show' celebrates top highlights, playful roasts and the vibrant energy that defines its comedy.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312054000 +0530" stop="20260312070000 +0530">
+    <title lang="zh">Indian Idol</title>
+    <desc>The contestants and judges, along with Anandji Virji Shah and Manoj Muntashir, pay tribute to the legendary and generous late Lata Mangeshkar.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312070000 +0530" stop="20260312074000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312074000 +0530" stop="20260312083000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312083000 +0530" stop="20260312092000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312092000 +0530" stop="20260312101000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>The host presents some of the best cases from Crime Patrol, which investigates how an ordinary, innocent individual can commit some heinous crimes due to the influence of society.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312101000 +0530" stop="20260312110000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312110000 +0530" stop="20260312115000 +0530">
+    <title lang="zh">Best of Crime Patrol - Crime Patrol Satark</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312115000 +0530" stop="20260312124000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312124000 +0530" stop="20260312133000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312133000 +0530" stop="20260312140000 +0530">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Sai imparts a valuable lesson to a boy about respecting his elders.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312140000 +0530" stop="20260312143000 +0530">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>A humble spiritual figure transforms lives in a small village by spreading compassion, unity and wisdom while confronting social divisions and injustice with calm resolve.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312143000 +0530" stop="20260312153000 +0530">
+    <title lang="zh">Master Chef India</title>
+    <desc>Aspiring chefs and food lovers from various parts of India showcase their culinary skills in front of prominent judges to win the title and grand prize money.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sethd" start="20260312153000 +0530" stop="20260313000000 +0530">
+    <title lang="zh">Wheel Of Fortune</title>
+    <desc>Contestants put their minds to solving word puzzles after spinning a giant wheel that determines the monetary value they are playing for.</desc>
+    <date>2026-03-12</date>
   </programme>
 <programme channel="starsports1hd" start="20260311000000 +0530" stop="20260311003000 +0530">
     <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
@@ -994,294 +1269,424 @@
     <desc>Bringing the best in television.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports1hd" start="20260311153000 +0530" stop="20260312000000 +0530">
+  <programme channel="starsports1hd" start="20260311153000 +0530" stop="20260311160000 +0530">
     <title lang="zh">Sports Programme</title>
     <desc>Bringing the best in television.</desc>
     <date>2026-03-11</date>
   </programme>
-<programme channel="starsports2hd" start="20260311000000 +0530" stop="20260311003000 +0530">
-    <title lang="zh">Rajasthan Royals vs Punjab Kings, 59th Match; TATA IPL 2025 Highlights</title>
-    <desc>A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311003000 +0530" stop="20260311013000 +0530">
-    <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311013000 +0530" stop="20260311020000 +0530">
-    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311020000 +0530" stop="20260311023000 +0530">
-    <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311023000 +0530" stop="20260311030000 +0530">
-    <title lang="zh">ICC Men's T20 World Cup 2026 - Road to Glory</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311030000 +0530" stop="20260311031500 +0530">
+  <programme channel="starsports1hd" start="20260311160000 +0530" stop="20260311161500 +0530">
     <title lang="zh">IPL Know Your Teams</title>
     <desc>This is Sport - Cricket Category.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311031500 +0530" stop="20260311033000 +0530">
+  <programme channel="starsports1hd" start="20260311161500 +0530" stop="20260311163000 +0530">
     <title lang="zh">IPL Know Your Teams</title>
     <desc>This is Sport - Cricket Category.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311033000 +0530" stop="20260311040000 +0530">
+  <programme channel="starsports1hd" start="20260311163000 +0530" stop="20260311170000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260311170000 +0530" stop="20260311171500 +0530">
+    <title lang="zh">Mumbai Indians vs Kolkata Knight Riders, 12th Match; TATA IPL 2025 Highlights</title>
+    <desc>Watch some of the most memorable highlights of the 12th IPL match played between the Mumbai Indians and the Kolkata Knight Riders.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260311171500 +0530" stop="20260311173000 +0530">
     <title lang="zh">Chennai Super Kings vs Mumbai Indians, 3rd Match; TATA IPL 2025 Highlights</title>
     <desc>A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311040000 +0530" stop="20260311043000 +0530">
-    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
-    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311043000 +0530" stop="20260311050000 +0530">
-    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
-    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311050000 +0530" stop="20260311051500 +0530">
-    <title lang="zh">IPL Know Your Teams</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311051500 +0530" stop="20260311053000 +0530">
-    <title lang="zh">IPL Know Your Teams</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311053000 +0530" stop="20260311060000 +0530">
-    <title lang="zh">IPL: Incredible Rivalries</title>
-    <desc>A compilation of some of the most competitive matches between professional cricket teams participating in the Indian Premier League.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311060000 +0530" stop="20260311063000 +0530">
+  <programme channel="starsports1hd" start="20260311173000 +0530" stop="20260311180000 +0530">
     <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
     <desc>This is Sport - Cricket Category.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311063000 +0530" stop="20260311070000 +0530">
-    <title lang="zh">ICC Men's T20 World Cup 2026 - Road to Glory</title>
-    <desc>This is Sport - Cricket Category.</desc>
+  <programme channel="starsports1hd" start="20260311180000 +0530" stop="20260311181500 +0530">
+    <title lang="zh">Punjab Kings vs Lucknow Super Giants, 54th Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of an IPL cricket match between Punjab Kings and Lucknow Super Giants where both teams compete to emerge victorious.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311070000 +0530" stop="20260311073000 +0530">
-    <title lang="zh">Mumbai Indians vs Royal Challengers Bangalore- 21st Match; TATA IPL 2025 Highlights</title>
-    <desc>A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
+  <programme channel="starsports1hd" start="20260311181500 +0530" stop="20260311183000 +0530">
+    <title lang="zh">Gujarat Titans vs Punjab Kings, 5th Match; TATA IPL 2025 Highlights</title>
+    <desc>Watch the most memorable highlights of the fifth IPL match played between the Gujarat Titans and the Punjab Kings in 2025.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311073000 +0530" stop="20260311080000 +0530">
-    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
-    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+  <programme channel="starsports1hd" start="20260311183000 +0530" stop="20260311190000 +0530">
+    <title lang="zh">IPL Incredible Comebacks</title>
+    <desc>A comprehensive compilation of the most epic comebacks made by cricketers and teams in the Indian Premier League, a prestigious franchise cricket tournament in India.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311080000 +0530" stop="20260311081500 +0530">
-    <title lang="zh">Lucknow Super Giants vs Royal Challengers Bengaluru, 70th Match; TATA IPL 2025 Highlights</title>
-    <desc>Highlights of an IPL cricket match between Lucknow Super Giants and Royal Challengers Bengaluru, where both teams compete to emerge victorious.</desc>
+  <programme channel="starsports1hd" start="20260311190000 +0530" stop="20260311193000 +0530">
+    <title lang="zh">Kolkata Knight Riders vs Rajasthan Royals, 53rd Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of an IPL cricket match between Kolkata Knight Riders and Rajasthan Royals where both teams compete to emerge victorious.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311081500 +0530" stop="20260311083000 +0530">
-    <title lang="zh">Tata Ipl 2023: CSK vs PK - 41st Match; Cricket Highlights</title>
-    <desc>Highlights from the 41st match of the 2023 Indian Premier League cricket season between Chennai Super Kings and Punjab Kings.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311083000 +0530" stop="20260311084500 +0530">
-    <title lang="zh">2026: Group 1: India vs Zimbabwe; ICC Men's T20 Cricket World Cup Highlights</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311084500 +0530" stop="20260311090000 +0530">
-    <title lang="zh">2026: Group 1: India vs West Indies; ICC Men's T20 Cricket World Cup Highlights</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311090000 +0530" stop="20260311093000 +0530">
-    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311093000 +0530" stop="20260311100000 +0530">
+  <programme channel="starsports1hd" start="20260311193000 +0530" stop="20260311200000 +0530">
     <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
     <desc>This is Sport - Cricket Category.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311100000 +0530" stop="20260311103000 +0530">
-    <title lang="zh">ICC Men's T20 World Cup 2026 - Road to Glory</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311103000 +0530" stop="20260311110000 +0530">
-    <title lang="zh">Mumbai Indians vs. Chennai Super Kings; TATA IPL 2025 Highlights</title>
-    <desc>A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311110000 +0530" stop="20260311113000 +0530">
-    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
-    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311113000 +0530" stop="20260311120000 +0530">
-    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
-    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311120000 +0530" stop="20260311121500 +0530">
-    <title lang="zh">IPL Know Your Teams</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311121500 +0530" stop="20260311123000 +0530">
-    <title lang="zh">IPL Know Your Teams</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311123000 +0530" stop="20260311130000 +0530">
-    <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311130000 +0530" stop="20260311131500 +0530">
-    <title lang="zh">Out Or Out Of The Park - IPL Edition</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311131500 +0530" stop="20260311134500 +0530">
-    <title lang="zh">Out Or Out Of The Park - IPL Edition</title>
-    <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311134500 +0530" stop="20260311140000 +0530">
-    <title lang="zh">Tata Ipl 2024: GT vs RCB - 45th Match; Cricket Highlights</title>
-    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
-    <date>2026-03-11</date>
-  </programme>
-  <programme channel="starsports2hd" start="20260311140000 +0530" stop="20260311143000 +0530">
+  <programme channel="starsports1hd" start="20260311200000 +0530" stop="20260311203000 +0530">
     <title lang="zh">Kolkata Knight Riders vs Royal Challengers Bengaluru, 1st Match; TATA IPL 2025 Highlights</title>
     <desc>A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311143000 +0530" stop="20260311150000 +0530">
+  <programme channel="starsports1hd" start="20260311203000 +0530" stop="20260311210000 +0530">
+    <title lang="zh">Gujarat Titans vs Delhi Capitals; TATA IPL 2025 Highlights</title>
+    <desc>A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260311210000 +0530" stop="20260311213000 +0530">
+    <title lang="zh">Ipl 2024: GT vs PK - 17th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260311213000 +0530" stop="20260311220000 +0530">
+    <title lang="zh">Royal Challengers Bengaluru vs Chennai Super Kings, 52nd Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of an IPL match between Royal Challengers Bengaluru and Chennai Super Kings, where the winner advances to the next stage.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260311220000 +0530" stop="20260311223000 +0530">
+    <title lang="zh">IPL:Incredible Finals</title>
+    <desc>A compilation of some of the most noteworthy moments captured during the finals of the Indian Premier League, a prestigious T20 tournament.</desc>
+    <date>2026-03-11</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260311223000 +0530" stop="20260311230000 +0530">
     <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
     <desc>This is Sport - Cricket Category.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311150000 +0530" stop="20260311151500 +0530">
-    <title lang="zh">IPL Know Your Teams</title>
-    <desc>This is Sport - Cricket Category.</desc>
+  <programme channel="starsports1hd" start="20260311230000 +0530" stop="20260311233000 +0530">
+    <title lang="zh">Ipl 2024: DC vs KKR - 16th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311151500 +0530" stop="20260311153000 +0530">
-    <title lang="zh">IPL Know Your Teams</title>
-    <desc>This is Sport - Cricket Category.</desc>
+  <programme channel="starsports1hd" start="20260311233000 +0530" stop="20260312000000 +0530">
+    <title lang="zh">Royal Challengers Bangalore vs Rajasthan Royals, 42nd Match; TATA IPL 2025 Highlights</title>
+    <desc>A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
     <date>2026-03-11</date>
   </programme>
-  <programme channel="starsports2hd" start="20260311153000 +0530" stop="20260312000000 +0530">
+  <programme channel="starsports1hd" start="20260312000000 +0530" stop="20260312003000 +0530">
+    <title lang="zh">Tata Ipl 2024: PK vs SRH - 23rd Match; Cricket Highlights</title>
+    <desc>Highlights of the cricket match between Indian Premier League teams Punjab Kings and Sunrisers Hyderabad, where both teams compete to emerge victorious.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312003000 +0530" stop="20260312010000 +0530">
+    <title lang="zh">Tata Ipl 2024: PK vs RCB - 58th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312010000 +0530" stop="20260312013000 +0530">
+    <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312013000 +0530" stop="20260312020000 +0530">
     <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
     <desc>This is Sport - Cricket Category.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-<programme channel="sonyten3hd" start="20260311000000 +0530" stop="20260311003000 +0530">
-    <title lang="zh">England vs India 2025 2nd Test; Best of the Tests</title>
-    <desc>Highlights from the second test match between England and India in 2025, where the two professional cricket teams compete against each other for victory.</desc>
-    <date>2026-03-11</date>
+  <programme channel="starsports1hd" start="20260312020000 +0530" stop="20260312021500 +0530">
+    <title lang="zh">Kolkata Knight Riders vs Rajasthan Royals, 53rd Match; TATA IPL 2025 Highlights</title>
+    <desc>Highlights of an IPL cricket match between Kolkata Knight Riders and Rajasthan Royals where both teams compete to emerge victorious.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311003000 +0530" stop="20260311013000 +0530">
+  <programme channel="starsports1hd" start="20260312021500 +0530" stop="20260312023000 +0530">
+    <title lang="zh">Tata Ipl 2023: KKR vs LSG - 68th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312023000 +0530" stop="20260312030000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312030000 +0530" stop="20260312031500 +0530">
+    <title lang="zh">Kolkata Knight Riders vs Royal Challengers Bengaluru, 1st Match; TATA IPL 2025 Highlights</title>
+    <desc>A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312031500 +0530" stop="20260312033000 +0530">
+    <title lang="zh">Tata Ipl 2024: KKR vs RCB - 36th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312033000 +0530" stop="20260312040000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup 2026 - Road to Glory</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312040000 +0530" stop="20260312041500 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312041500 +0530" stop="20260312043000 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312043000 +0530" stop="20260312050000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312050000 +0530" stop="20260312053000 +0530">
+    <title lang="zh">IPL:Incredible Finals</title>
+    <desc>A compilation of some of the most noteworthy moments captured during the finals of the Indian Premier League, a prestigious T20 tournament.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312053000 +0530" stop="20260312060000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312060000 +0530" stop="20260312063000 +0530">
+    <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312063000 +0530" stop="20260312064500 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312064500 +0530" stop="20260312070000 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312070000 +0530" stop="20260312073000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312073000 +0530" stop="20260312080000 +0530">
+    <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312080000 +0530" stop="20260312083000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312083000 +0530" stop="20260312090000 +0530">
+    <title lang="zh">IPL:Incredible Runfests</title>
+    <desc>The host revisits some of the most memorable high-scoring games and successful run chases recorded during the Indian Premier League cricket tournament.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312090000 +0530" stop="20260312091500 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312091500 +0530" stop="20260312093000 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312093000 +0530" stop="20260312094500 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312094500 +0530" stop="20260312100000 +0530">
+    <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312100000 +0530" stop="20260312103000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup 2026 - Road to Glory</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312103000 +0530" stop="20260312104500 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312104500 +0530" stop="20260312110000 +0530">
+    <title lang="zh">Tata Ipl 2023: CSK vs RR - 17th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312110000 +0530" stop="20260312111500 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312111500 +0530" stop="20260312113000 +0530">
+    <title lang="zh">Delhi Capitals vs Kolkata Knight Riders; TATA IPL 2025 Highlights</title>
+    <desc>Watch the highlights and best moments from the thrilling match between Delhi Capitals and Kolkata Knight Riders at the 2025 Tata IPL.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312113000 +0530" stop="20260312120000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312120000 +0530" stop="20260312123000 +0530">
+    <title lang="zh">2026: Semifinal 2: India vs England; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312123000 +0530" stop="20260312124500 +0530">
+    <title lang="zh">Chennai Super Kings vs Punjab Kings, 49th Match; TATA IPL 2025 Highlights</title>
+    <desc>Watch the highlights and best moments from the thrilling match between Chennai Super Kings and Punjab Kings at the 2025 Tata IPL.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312124500 +0530" stop="20260312130000 +0530">
+    <title lang="zh">Tata Ipl 2024: GT vs MI - 5th Match; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312130000 +0530" stop="20260312133000 +0530">
+    <title lang="zh">2026: Final: India vs New Zealand; ICC Men's T20 Cricket World Cup Highlights</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312133000 +0530" stop="20260312134500 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312134500 +0530" stop="20260312140000 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312140000 +0530" stop="20260312143000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup 2026 - Road to Glory</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312143000 +0530" stop="20260312150000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312150000 +0530" stop="20260312151500 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312151500 +0530" stop="20260312153000 +0530">
+    <title lang="zh">IPL Know Your Teams</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="starsports1hd" start="20260312153000 +0530" stop="20260313000000 +0530">
+    <title lang="zh">ICC Men's T20 World Cup; Cricket Countdown</title>
+    <desc>A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
+    <date>2026-03-12</date>
+  </programme>
+<programme channel="sonyten3hd" start="20260312000000 +0530" stop="20260312003000 +0530">
+    <title lang="zh">England vs. India 2025 3rd Test; Best of the Tests</title>
+    <desc>Highlights from the third test match between England and India in 2025, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20260312003000 +0530" stop="20260312013000 +0530">
     <title lang="zh">Twenty20 Cricket</title>
-    <desc>England competes against India in their first T20 International match, where the two professional cricket teams vie for victory.</desc>
-    <date>2026-03-11</date>
+    <desc>England competes against India in their second T20 International match, where the two professional cricket teams vie for victory.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311013000 +0530" stop="20260311020000 +0530">
-    <title lang="zh">Galatasaray vs Liverpool, Round of 16, 1st Leg; UEFA Champions League Highlights</title>
+  <programme channel="sonyten3hd" start="20260312013000 +0530" stop="20260312020000 +0530">
+    <title lang="zh">Bayer 04 Leverkusen vs Arsenal, Round of 16, 1st Leg; UEFA Champions League Highlights</title>
     <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311020000 +0530" stop="20260311023000 +0530">
-    <title lang="zh">Newcastle United vs FC Barcelona, Round of 16, 1st Leg; UEFA Champions League Highlights</title>
+  <programme channel="sonyten3hd" start="20260312020000 +0530" stop="20260312023000 +0530">
+    <title lang="zh">Real Madrid - Manchester City; UEFA Champions League Highlights</title>
     <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311023000 +0530" stop="20260311033000 +0530">
+  <programme channel="sonyten3hd" start="20260312023000 +0530" stop="20260312033000 +0530">
     <title lang="zh">UFC - Fight O'Clock - Middleweight; UFC - Fight O'Clock</title>
     <desc>This is Sport - Sport Category.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311033000 +0530" stop="20260311043000 +0530">
-    <title lang="zh">2025: Super Four: Sri Lanka vs. Bangladesh; Asia Cup Highlights</title>
-    <desc>Highlights from the 2025 Super Fours match between Sri Lanka and Bangladesh in the Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
-    <date>2026-03-11</date>
+  <programme channel="sonyten3hd" start="20260312033000 +0530" stop="20260312043000 +0530">
+    <title lang="zh">2025: Super Four: India vs. Pakistan; Asia Cup Highlights</title>
+    <desc>Highlights from the Super Four match between India and Pakistan in the 2025 Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311043000 +0530" stop="20260311053000 +0530">
-    <title lang="zh">England v India: 1st ODI; One-Day International Cricket</title>
-    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
-    <date>2026-03-11</date>
+  <programme channel="sonyten3hd" start="20260312043000 +0530" stop="20260312053000 +0530">
+    <title lang="zh">2022: 3rd ODI, England vs India; One-Day International Cricket</title>
+    <desc>England competes against India in their third One-Day International match in 2022, where the two professional cricket teams vie for victory.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311053000 +0530" stop="20260311060000 +0530">
+  <programme channel="sonyten3hd" start="20260312053000 +0530" stop="20260312060000 +0530">
     <title lang="zh">Jeddah ePrix, Race; FIA Formula E World Championship Racing</title>
     <desc>From Jeddah Corniche Circuit in Jeddah, Makkah, Saudi Arabia.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311060000 +0530" stop="20260311063000 +0530">
-    <title lang="zh">Galatasaray vs Liverpool, Round of 16, 1st Leg; UEFA Champions League Highlights</title>
+  <programme channel="sonyten3hd" start="20260312060000 +0530" stop="20260312063000 +0530">
+    <title lang="zh">Bayer 04 Leverkusen vs Arsenal, Round of 16, 1st Leg; UEFA Champions League Highlights</title>
     <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311063000 +0530" stop="20260311070000 +0530">
-    <title lang="zh">Newcastle United vs FC Barcelona, Round of 16, 1st Leg; UEFA Champions League Highlights</title>
+  <programme channel="sonyten3hd" start="20260312063000 +0530" stop="20260312070000 +0530">
+    <title lang="zh">Real Madrid - Manchester City; UEFA Champions League Highlights</title>
     <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311070000 +0530" stop="20260311080000 +0530">
+  <programme channel="sonyten3hd" start="20260312070000 +0530" stop="20260312080000 +0530">
     <title lang="zh">UFC - Fight O'Clock - Middleweight; UFC - Fight O'Clock</title>
     <desc>This is Sport - Sport Category.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311080000 +0530" stop="20260311083000 +0530">
-    <title lang="zh">2021 4th Test-England vs India; Best of the Tests</title>
-    <desc>Highlights of the 4th 2021 cricket test match between England and India where both of the teams compete to win the coveted tournament trophy.</desc>
-    <date>2026-03-11</date>
+  <programme channel="sonyten3hd" start="20260312080000 +0530" stop="20260312083000 +0530">
+    <title lang="zh">England vs India 2025 5th Test; Best of the Tests</title>
+    <desc>Highlights from the fifth test match between England and India in 2025, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311083000 +0530" stop="20260311090000 +0530">
-    <title lang="zh">Galatasaray vs Liverpool, Round of 16, 1st Leg; UEFA Champions League Highlights</title>
+  <programme channel="sonyten3hd" start="20260312083000 +0530" stop="20260312090000 +0530">
+    <title lang="zh">Bayer 04 Leverkusen vs Arsenal, Round of 16, 1st Leg; UEFA Champions League Highlights</title>
     <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311090000 +0530" stop="20260311093000 +0530">
+  <programme channel="sonyten3hd" start="20260312090000 +0530" stop="20260312093000 +0530">
     <title lang="zh">Jeddah ePrix, Race; FIA Formula E World Championship Racing</title>
     <desc>From Jeddah Corniche Circuit in Jeddah, Makkah, Saudi Arabia.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311093000 +0530" stop="20260311113000 +0530">
-    <title lang="zh">4th Test: England vs. India; Test Cricket</title>
-    <desc>Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.</desc>
-    <date>2026-03-11</date>
+  <programme channel="sonyten3hd" start="20260312093000 +0530" stop="20260312113000 +0530">
+    <title lang="zh">5th Test: England vs. India; Test Cricket</title>
+    <desc>Highlights from the fifth test match between England and India, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311113000 +0530" stop="20260311120000 +0530">
-    <title lang="zh">Newcastle United vs FC Barcelona, Round of 16, 1st Leg; UEFA Champions League Highlights</title>
+  <programme channel="sonyten3hd" start="20260312113000 +0530" stop="20260312120000 +0530">
+    <title lang="zh">Real Madrid - Manchester City; UEFA Champions League Highlights</title>
     <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311120000 +0530" stop="20260311123000 +0530">
+  <programme channel="sonyten3hd" start="20260312120000 +0530" stop="20260312123000 +0530">
     <title lang="zh">Jeddah ePrix, Race; FIA Formula E World Championship Racing</title>
     <desc>From Jeddah Corniche Circuit in Jeddah, Makkah, Saudi Arabia.</desc>
-    <date>2026-03-11</date>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311123000 +0530" stop="20260311130000 +0530">
-    <title lang="zh">2021 4th Test-England vs India; Best of the Tests</title>
-    <desc>Highlights of the 4th 2021 cricket test match between England and India where both of the teams compete to win the coveted tournament trophy.</desc>
-    <date>2026-03-11</date>
+  <programme channel="sonyten3hd" start="20260312123000 +0530" stop="20260312130000 +0530">
+    <title lang="zh">England vs India 2025 5th Test; Best of the Tests</title>
+    <desc>Highlights from the fifth test match between England and India in 2025, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-03-12</date>
   </programme>
-  <programme channel="sonyten3hd" start="20260311130000 +0530" stop="20260312000000 +0530">
-    <title lang="zh">Live - Mumbai Spartans vs. India Captains; Legends League Cricket</title>
-    <desc>From Indira Gandhi International Sports Stadium in Haldwani, Uttarakhand, India.</desc>
-    <date>2026-03-11</date>
+  <programme channel="sonyten3hd" start="20260312130000 +0530" stop="20260312133000 +0530">
+    <title lang="zh">Real Madrid - Manchester City; UEFA Champions League Highlights</title>
+    <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20260312133000 +0530" stop="20260312143000 +0530">
+    <title lang="zh">UFC - Fight O'Clock - Middleweight; UFC - Fight O'Clock</title>
+    <desc>This is Sport - Sport Category.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="sonyten3hd" start="20260312143000 +0530" stop="20260313000000 +0530">
+    <title lang="zh">Live - Sanatan Premier League: Teams TBA; T10 Cricket</title>
+    <desc>Professional cricket players compete against each other to emerge victorious and win the title in a T10 cricket tournament.</desc>
+    <date>2026-03-12</date>
   </programme>
 </tv>
