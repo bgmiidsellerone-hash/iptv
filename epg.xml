@@ -19,9 +19,39 @@
     <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
     <date>2026-04-29</date>
   </programme>
-  <programme channel="hungama" start="20260429033000 +0530" stop="20260430000000 +0530">
+  <programme channel="hungama" start="20260429033000 +0530" stop="20260429063000 +0530">
     <title lang="zh">Shin Chan</title>
     <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="hungama" start="20260429063000 +0530" stop="20260429070000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="hungama" start="20260429070000 +0530" stop="20260429080000 +0530">
+    <title lang="zh">Shin Chan On Stress Gone</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="hungama" start="20260429080000 +0530" stop="20260429120000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="hungama" start="20260429120000 +0530" stop="20260429123000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="hungama" start="20260429123000 +0530" stop="20260429153000 +0530">
+    <title lang="zh">Shin Chan</title>
+    <desc>A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="hungama" start="20260429153000 +0530" stop="20260430000000 +0530">
+    <title lang="zh">Pokemon</title>
+    <desc>A Pokémon master embarks on an adventurous journey across the world, along with his group of friends, to catch maximum pocket monsters.</desc>
     <date>2026-04-29</date>
   </programme>
 <programme channel="disneychannel" start="20260429000000 +0530" stop="20260429003000 +0530">
@@ -264,9 +294,74 @@
     <desc>This is TV Show - Entertainment Category.</desc>
     <date>2026-04-29</date>
   </programme>
-  <programme channel="sethd" start="20260429033000 +0530" stop="20260430000000 +0530">
+  <programme channel="sethd" start="20260429033000 +0530" stop="20260429045000 +0530">
     <title lang="zh">Best of the Kapil Sharma Show</title>
     <desc>A compilation of the best moments from the Kapil Sharma Show features the renowned comedian Kapil Sharma entertaining the audience with hilarious skits and interactions.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429045000 +0530" stop="20260429061000 +0530">
+    <title lang="zh">Best of the Kapil Sharma Show</title>
+    <desc>A compilation of the best moments from 'The Kapil Sharma Show' celebrates top highlights, playful roasts and the vibrant energy that defines its comedy.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429061000 +0530" stop="20260429074000 +0530">
+    <title lang="zh">Indian Idol</title>
+    <desc>Various talented participants from India compete against each other during a singing competition in order to impress the judges and win the title.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429074000 +0530" stop="20260429083000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>The host presents some of the best cases from Crime Patrol, which investigates how an ordinary, innocent individual can commit some heinous crimes due to the influence of society.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429083000 +0530" stop="20260429092000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429092000 +0530" stop="20260429110000 +0530">
+    <title lang="zh">Best of Crime Patrol - Crime Patrol 48 Hours</title>
+    <desc>The host narrates various crimes revolving around real-life incidents focusing on their first 48 hours, a crucial timeframe to solve the case.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429110000 +0530" stop="20260429120000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429120000 +0530" stop="20260429124000 +0530">
+    <title lang="zh">Best of Crime Patrol</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429124000 +0530" stop="20260429133000 +0530">
+    <title lang="zh">Best of Crime Patrol - Crime Patrol Satark</title>
+    <desc>A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429133000 +0530" stop="20260429140000 +0530">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Kulkarni learns about Dheer's past and offers him money to abandon the project. In the meantime, Sai helps Christina find hope.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429140000 +0530" stop="20260429143000 +0530">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>An unexpected incident occurs as some people hurl abuses at Sai for having trusted Dheer. In the meantime, Kulkarni convinces Albert to stop the construction.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429143000 +0530" stop="20260429150000 +0530">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>As Kulkarni's henchmen pelt stones at the officers, a few villagers are arrested. In the meantime, Sai tries to reason with Albert but is manhandled.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429150000 +0530" stop="20260429153000 +0530">
+    <title lang="zh">Mere Sai - Shraddha Aur Saburi</title>
+    <desc>Sai's decision to extend help to an officer yields an unpredicted outcome. Meanwhile, the villagers discover that the road they constructed has been dug up.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="sethd" start="20260429153000 +0530" stop="20260430000000 +0530">
+    <title lang="zh">Tum Ho Naa - Ghar Ki Superstar</title>
+    <desc>This is TV Show - Entertainment Category.</desc>
     <date>2026-04-29</date>
   </programme>
 <programme channel="starsports1hd" start="20260429000000 +0530" stop="20260429003000 +0530">
